@@ -27,6 +27,17 @@ Whenever the user asks you to design, build, automate, architect or evaluate a p
 
 Priority is a navigation aid, not proof of production readiness.
 
+## Generated GitHub metadata
+
+When `metadata/github.jsonl` is populated, use it as a **live signal overlay** for activity, maintenance state, license, language, release recency, Stars/forks and heuristic activity/maturity scores.
+
+Important rules:
+
+- Generated scores help **rank and shortlist**; they do not override curated priority A/B/C.
+- `activity_score` and `maturity_score` are heuristics, not production-readiness or security certifications.
+- Treat `ARCHIVED`, `DISABLED`, `MISSING`, `INACCESSIBLE`, `STALE` and `DORMANT` as reasons to investigate, not automatic rejection.
+- Before adopting a serious candidate, inspect its upstream repository and current documentation/issues/releases.
+
 ## How to query the catalog
 
 The canonical source is the set of `catalog/*.jsonl` files. Each non-empty line is one JSON object and typically contains repository, URL, category/subcategory, resource type, intended use mode, priority, relevance, description and tags.
@@ -35,6 +46,7 @@ For local search:
 
 ```bash
 python scripts/query_catalog.py --query "multi agent memory observability" --priority A B
+python scripts/query_catalog.py --query "agent orchestration" --maintenance ACTIVE SLOW --min-activity 50 --min-maturity 60
 ```
 
 Start with `TOP_PICKS.md` for high-value candidates and `STACKS.md` for known combinations, then search the full catalog for recall.
