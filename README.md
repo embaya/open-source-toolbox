@@ -20,12 +20,20 @@ This repository is a **toolbox, not a bookmark dump**. Before building a compone
 |---|---|
 | [`AI_CONTEXT.md`](AI_CONTEXT.md) | Give this to any AI first so it understands how to use the toolbox |
 | [`TOOLBOX_PROMPT.md`](TOOLBOX_PROMPT.md) | Copy/paste prompt for ChatGPT, Claude, Gemini, Codex or another AI |
-| [`catalog.jsonl`](catalog.jsonl) | Canonical machine-readable catalog, one repository per line |
-| [`CATALOG_AI.tsv`](CATALOG_AI.tsv) | Compact tabular catalog for LLMs and spreadsheets |
+| [`catalog/`](catalog/) | Canonical machine-readable catalog, split by functional domain |
 | [`TOP_PICKS.md`](TOP_PICKS.md) | Highest-value tools to inspect first |
 | [`STACKS.md`](STACKS.md) | Recommended combinations for common project types |
 | [`TAXONOMY.md`](TAXONOMY.md) | Categories, priority and usage semantics |
 | [`AGENTS.md`](AGENTS.md) | Instructions for coding agents operating inside this repository |
+| [`ROADMAP.md`](ROADMAP.md) | Planned enrichment: live metadata, scoring, RAG and MCP |
+
+## Search locally
+
+```bash
+python scripts/query_catalog.py --query "multi agent memory observability" --priority A B
+python scripts/query_catalog.py --query "kubernetes finops" --limit 10
+python scripts/query_catalog.py --category "Automation" --limit 20
+```
 
 ## Decision workflow
 
@@ -33,7 +41,7 @@ This repository is a **toolbox, not a bookmark dump**. Before building a compone
 Project requirement
        |
        v
-Search catalog.jsonl
+Search catalog/*.jsonl
        |
        v
 Shortlist matching capabilities
@@ -73,4 +81,10 @@ Some security repositories are offensive-security tools. Use them only on system
 
 ## Updating the toolbox
 
-When new repositories are added, keep `catalog.jsonl` as the canonical machine-readable source and update the curated views only when the project has been reviewed.
+The canonical machine-readable source is the set of JSONL files under `catalog/`. Keep repository names globally unique and run:
+
+```bash
+python scripts/validate_catalog.py
+```
+
+Update curated views (`TOP_PICKS.md`, `STACKS.md`) only when a project has been reviewed.
