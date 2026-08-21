@@ -1,0 +1,114 @@
+name: Refresh GitHub metadata
+
+on:
+  schedule:
+    - cron: "43 4 * * 0"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/refresh-metadata.yml"
+      - "scripts/refresh_metadata.py"
+      - "scripts/validate_metadata.py"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: toolbox-metadata-refresh
+  cancel-in-progress: false
+
+env:
+  AUTOMATION_BRANCH: automation/toolbox-metadata
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare reusable automation branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin master
+          if git fetch origin "$AUTOMATION_BRANCH:refs/remotes/origin/$AUTOMATION_BRANCH" 2>/dev/null; then
+            git checkout -B "$AUTOMATION_BRANCH" "origin/$AUTOMATION_BRANCH"
+            git rebase origin/master
+          else
+            git checkout -B "$AUTOMATION_BRANCH" origin/master
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh repository metadata
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python scripts/refresh_metadata.py \
+            --workers 4 \
+            --result "$RUNNER_TEMP/metadata-result.json"
+          cat "$RUNNER_TEMP/metadata-result.json"
+
+      - name: Validate metadata coverage
+        run: |
+          python -m unittest discover -s tests -p 'test_*.py'
+          python scripts/validate_catalog.py
+          python scripts/validate_metadata.py --require-coverage
+
+      - name: Commit metadata changes
+        id: commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- metadata/github.jsonl metadata/summary.md
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore(toolbox): refresh GitHub metadata"
+          git push --force-with-lease origin "$AUTOMATION_BRANCH"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Create or refresh metadata PR
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          existing="$(gh pr list --head "$AUTOMATION_BRANCH" --base master --state open --json number --jq '.[0].number // empty')"
+          body_file="$RUNNER_TEMP/pr-body.md"
+          result="$(cat "$RUNNER_TEMP/metadata-result.json")"
+          cat > "$body_file" <<EOF
+          ## Automated GitHub metadata refresh
+
+          This PR updates only the generated metadata overlay under \`metadata/\`.
+          Curated catalog classifications and priority are untouched.
+
+          Refresh result:
+          \`\`\`json
+          $result
+          \`\`\`
+
+          Review notable status changes such as \`ARCHIVED\`, \`STALE\`, \`DORMANT\`, \`MISSING\` or \`INACCESSIBLE\` before merging.
+          EOF
+          if [[ -n "$existing" ]]; then
+            gh pr edit "$existing" --body-file "$body_file"
+          else
+            gh pr create \
+              --draft \
+              --base master \
+              --head "$AUTOMATION_BRANCH" \
+              --title "chore(toolbox): refresh GitHub repository metadata" \
+              --body-file "$body_file"
+          fi
