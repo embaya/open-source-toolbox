@@ -1,14 +1,20 @@
-name: Validate catalog
+name: Validate toolbox data
 
 on:
   push:
     paths:
       - "catalog/**"
-      - "scripts/validate_catalog.py"
+      - "inbox/**"
+      - "state/**"
+      - "scripts/**"
+      - "tests/**"
   pull_request:
     paths:
       - "catalog/**"
-      - "scripts/validate_catalog.py"
+      - "inbox/**"
+      - "state/**"
+      - "scripts/**"
+      - "tests/**"
 
 permissions:
   contents: read
@@ -21,4 +27,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: python -m unittest discover -s tests -p 'test_*.py'
       - run: python scripts/validate_catalog.py
+      - run: python scripts/validate_inbox.py
