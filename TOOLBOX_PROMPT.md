@@ -11,7 +11,7 @@ I maintain a personal Open Source Toolbox in this repository. It contains open-s
 For the project/problem I give you:
 
 1. Translate my requirement into technical capabilities.
-2. Search `catalog.jsonl`, then inspect `TOP_PICKS.md` and `STACKS.md` when relevant.
+2. Read `AI_CONTEXT.md`, search the relevant `catalog/*.jsonl` files, then inspect `TOP_PICKS.md` and `STACKS.md` when relevant.
 3. Shortlist the strongest toolbox candidates.
 4. For each candidate classify the intended use as **DEPLOY**, **INTEGRATE**, **EXTEND**, **INSPIRE**, or **LEARN**.
 5. Compare overlapping solutions rather than listing them blindly.
