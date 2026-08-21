@@ -3,11 +3,11 @@ name: Validate catalog
 on:
   push:
     paths:
-      - "catalog.jsonl"
+      - "catalog/**"
       - "scripts/validate_catalog.py"
   pull_request:
     paths:
-      - "catalog.jsonl"
+      - "catalog/**"
       - "scripts/validate_catalog.py"
 
 permissions:
