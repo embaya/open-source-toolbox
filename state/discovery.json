@@ -1,5 +1,2671 @@
 {
-  "discovery_mode": "uninitialized",
+  "discovery_mode": "public",
   "owner": "embaya",
-  "repositories": []
+  "repositories": [
+    {
+      "forked": true,
+      "repository": "777genius/claude-code-source-code",
+      "source_entries": [
+        "embaya/claude-code-source-code"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "aaif-goose/goose",
+      "source_entries": [
+        "embaya/goose"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "abus-aikorea/voice-pro",
+      "source_entries": [
+        "abus-aikorea/voice-pro",
+        "embaya/voice-pro"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "ackintosh/ganesha",
+      "source_entries": [
+        "ackintosh/ganesha"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Ademking/MD-This-Page",
+      "source_entries": [
+        "Ademking/MD-This-Page"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "adilshehzad786/AWS-DevOps-Professional-DP-C02-Notes-2025",
+      "source_entries": [
+        "embaya/AWS-DevOps-Professional-DP-C02-Notes-2025"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "affaan-m/ECC",
+      "source_entries": [
+        "embaya/everything-claude-code"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "Agent-Field/agentfield",
+      "source_entries": [
+        "Agent-Field/agentfield"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "agentscope-ai/agentscope",
+      "source_entries": [
+        "agentscope-ai/agentscope",
+        "embaya/agentscope"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "AgriciDaniel/claude-ads",
+      "source_entries": [
+        "AgriciDaniel/claude-ads"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "AI4Finance-Foundation/FinGPT",
+      "source_entries": [
+        "embaya/fingpt"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "alamshafil/auto-shorts",
+      "source_entries": [
+        "alamshafil/auto-shorts"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "aliasrobotics/cai",
+      "source_entries": [
+        "aliasrobotics/cai"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "alibaba/zvec",
+      "source_entries": [
+        "alibaba/zvec"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Alishahryar1/free-claude-code",
+      "source_entries": [
+        "Alishahryar1/free-claude-code",
+        "embaya/free-claude-code"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "allenk/GeminiWatermarkTool",
+      "source_entries": [
+        "allenk/GeminiWatermarkTool"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "alufers/mitmproxy2swagger",
+      "source_entries": [
+        "embaya/mitmproxy2swagger"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "anhchienhoang/sf4-cqrs-es-demo",
+      "source_entries": [
+        "anhchienhoang/sf4-cqrs-es-demo"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Anil-matcha/Open-Generative-AI",
+      "source_entries": [
+        "Anil-matcha/Open-Generative-AI",
+        "embaya/Open-Generative-AI"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "anomalyco/openauth",
+      "source_entries": [
+        "anomalyco/openauth"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "anomalyco/opencode",
+      "source_entries": [
+        "anomalyco/opencode"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "anthropics/claude-plugins-official",
+      "source_entries": [
+        "anthropics/claude-plugins-official"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "anthropics/knowledge-work-plugins",
+      "source_entries": [
+        "anthropics/knowledge-work-plugins"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "antonbabenko/terraform-skill",
+      "source_entries": [
+        "embaya/terraform-skill"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "antonputra/tutorials",
+      "source_entries": [
+        "antonputra/tutorials",
+        "embaya/tutorials"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "anyproto/anytype-ts",
+      "source_entries": [
+        "anyproto/anytype-ts"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "AppFlowy-IO/AppFlowy",
+      "source_entries": [
+        "AppFlowy-IO/AppFlowy",
+        "embaya/AppFlowy"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "arcahyadi/odysseus",
+      "source_entries": [
+        "embaya/odysseus"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "ArduPilot/ardupilot",
+      "source_entries": [
+        "ArduPilot/ardupilot"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "asgeirtj/system_prompts_leaks",
+      "source_entries": [
+        "asgeirtj/system_prompts_leaks",
+        "embaya/system_prompts_leaks"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "ashishpatel26/500-AI-Agents-Projects",
+      "source_entries": [
+        "ashishpatel26/500-AI-Agents-Projects",
+        "embaya/500-ai-agents-projects"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Augani/openreel-video",
+      "source_entries": [
+        "embaya/openreel-video"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "aws-samples/serverless-snippets",
+      "source_entries": [
+        "aws-samples/serverless-snippets"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "aws-solutions/quota-monitor-for-aws",
+      "source_entries": [
+        "aws-solutions/quota-monitor-for-aws"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "aws/aws-sdk-php",
+      "source_entries": [
+        "aws/aws-sdk-php"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "aws/aws-sdk-php-symfony",
+      "source_entries": [
+        "aws/aws-sdk-php-symfony"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "b-viguier/Slip",
+      "source_entries": [
+        "b-viguier/Slip"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "bamper/mava-project",
+      "source_entries": [
+        "embaya/mava-project"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "bastienwirtz/homer",
+      "source_entries": [
+        "bastienwirtz/homer",
+        "embaya/homer"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "BedrockStreaming/DaemonBundle",
+      "source_entries": [
+        "BedrockStreaming/DaemonBundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "BedrockStreaming/GuzzleHttpBundle",
+      "source_entries": [
+        "BedrockStreaming/GuzzleHttpBundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "BedrockStreaming/LogBridgeBundle",
+      "source_entries": [
+        "BedrockStreaming/LogBridgeBundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "BedrockStreaming/MonologExtraBundle",
+      "source_entries": [
+        "BedrockStreaming/MonologExtraBundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "BedrockStreaming/php-cs-fixer-config",
+      "source_entries": [
+        "BedrockStreaming/php-cs-fixer-config"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "BedrockStreaming/StatsdTagsPrometheusBundle",
+      "source_entries": [
+        "BedrockStreaming/StatsdTagsPrometheusBundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Billionmail/BillionMail",
+      "source_entries": [
+        "Billionmail/BillionMail"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "binhnguyennus/awesome-scalability",
+      "source_entries": [
+        "embaya/awesome-scalability"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "BoltzmannEntropy/MimikaStudio",
+      "source_entries": [
+        "BoltzmannEntropy/MimikaStudio"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "brefphp/bref",
+      "source_entries": [
+        "embaya/bref"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "browser-use/video-use",
+      "source_entries": [
+        "browser-use/video-use",
+        "embaya/video-use"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "bzikarsky/gelf-php",
+      "source_entries": [
+        "bzikarsky/gelf-php"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "caamer20/Telegram-Drive",
+      "source_entries": [
+        "caamer20/Telegram-Drive"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "calcom/cal.diy",
+      "source_entries": [
+        "embaya/cal.diy"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "calesthio/OpenMontage",
+      "source_entries": [
+        "embaya/openmontage"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "catnip-ai-tech/MaineCoon",
+      "source_entries": [
+        "embaya/mainecoon"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "Checkmarx/kics",
+      "source_entries": [
+        "embaya/kics"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "claque2000/terraform-aws-tfbackend",
+      "source_entries": [
+        "claque2000/terraform-aws-tfbackend"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "cline/cline",
+      "source_entries": [
+        "cline/cline"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "cloudflare/agentic-inbox",
+      "source_entries": [
+        "cloudflare/agentic-inbox"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "cloudflare/cloudflare-os",
+      "source_entries": [
+        "cloudflare/cloudflare-os",
+        "embaya/cloudflare-os"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "cnemri/tuni-folk-gemini",
+      "source_entries": [
+        "cnemri/tuni-folk-gemini"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "cobusgreyling/loop-engineering",
+      "source_entries": [
+        "cobusgreyling/loop-engineering"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "codecrafters-io/build-your-own-x",
+      "source_entries": [
+        "codecrafters-io/build-your-own-x",
+        "embaya/build-your-own-x"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Comfy-Org/ComfyUI",
+      "source_entries": [
+        "Comfy-Org/ComfyUI"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "community-scripts/ProxmoxVE",
+      "source_entries": [
+        "community-scripts/ProxmoxVE"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "composer/ca-bundle",
+      "source_entries": [
+        "composer/ca-bundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "composer/composer",
+      "source_entries": [
+        "composer/composer"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "composer/semver",
+      "source_entries": [
+        "composer/semver"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "composer/xdebug-handler",
+      "source_entries": [
+        "composer/xdebug-handler"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "ComposioHQ/awesome-claude-skills",
+      "source_entries": [
+        "ComposioHQ/awesome-claude-skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "cporter202/API-mega-list",
+      "source_entries": [
+        "embaya/api-mega-list"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "cporter202/scraping-apis-for-devs",
+      "source_entries": [
+        "cporter202/scraping-apis-for-devs"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "cporter202/social-media-scraping-apis",
+      "source_entries": [
+        "cporter202/social-media-scraping-apis",
+        "embaya/social-media-scraping-apis"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "cravler/CravlerMaxMindGeoIpBundle",
+      "source_entries": [
+        "cravler/CravlerMaxMindGeoIpBundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "crowdsecurity/crowdsec",
+      "source_entries": [
+        "crowdsecurity/crowdsec",
+        "embaya/crowdsec"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "czlonkowski/n8n-mcp",
+      "source_entries": [
+        "embaya/n8n-mcp"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "D4Vinci/Scrapling",
+      "source_entries": [
+        "embaya/Scrapling"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "DaKheera47/job-ops",
+      "source_entries": [
+        "DaKheera47/job-ops"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "danny-avila/LibreChat",
+      "source_entries": [
+        "danny-avila/LibreChat"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "darkzOGx/youtube-automation-agent",
+      "source_entries": [
+        "embaya/youtube-automation-agent"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "DesignPatternsPHP/DesignPatternsPHP",
+      "source_entries": [
+        "embaya/DesignPatternsPHP"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "diegosouzapw/OmniRoute",
+      "source_entries": [
+        "diegosouzapw/OmniRoute"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "DigitalPlatDev/FreeDomain",
+      "source_entries": [
+        "DigitalPlatDev/FreeDomain"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "DimCyan/iOS-remote",
+      "source_entries": [
+        "DimCyan/iOS-remote"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "DioxusLabs/dioxus",
+      "source_entries": [
+        "DioxusLabs/dioxus"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "docker/awesome-compose",
+      "source_entries": [
+        "docker/awesome-compose"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "doctrine/annotations",
+      "source_entries": [
+        "doctrine/annotations"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "doctrine/cache",
+      "source_entries": [
+        "doctrine/cache"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "doctrine/collections",
+      "source_entries": [
+        "doctrine/collections"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "doctrine/event-manager",
+      "source_entries": [
+        "doctrine/event-manager"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "doctrine/inflector",
+      "source_entries": [
+        "doctrine/inflector"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "doctrine/instantiator",
+      "source_entries": [
+        "doctrine/instantiator"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "doctrine/lexer",
+      "source_entries": [
+        "doctrine/lexer"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "doctrine/persistence",
+      "source_entries": [
+        "doctrine/persistence"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "doctrine/reflection",
+      "source_entries": [
+        "doctrine/reflection"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "documenso/documenso",
+      "source_entries": [
+        "documenso/documenso"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "earthtojake/text-to-cad",
+      "source_entries": [
+        "earthtojake/text-to-cad"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "EbookFoundation/free-programming-books",
+      "source_entries": [
+        "EbookFoundation/free-programming-books"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Egonex-AI/Understand-Anything",
+      "source_entries": [
+        "embaya/Understand-Anything"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "ehlesp/smallab-k8s-pve-guide",
+      "source_entries": [
+        "ehlesp/smallab-k8s-pve-guide"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "eko/eko",
+      "source_entries": [
+        "eko/eko"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "elie222/inbox-zero",
+      "source_entries": [
+        "elie222/inbox-zero"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "embaya/free-llm-api-keys",
+      "resolution_errors": [
+        "GitHub API 403 for https://api.github.com/repos/embaya/free-llm-api-keys: {\"message\":\"Repository access blocked\",\"block\":{\"reason\":\"tos\",\"created_at\":\"2026-07-08T17:22:25Z\",\"html_url\":\"https://github.com/tos\"}}"
+      ],
+      "source_entries": [
+        "embaya/free-llm-api-keys"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "emilkowalski/skills",
+      "source_entries": [
+        "embaya/skills",
+        "emilkowalski/skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "enescingoz/awesome-n8n-templates",
+      "source_entries": [
+        "embaya/awesome-n8n-templates"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "enix/x509-certificate-exporter",
+      "source_entries": [
+        "enix/x509-certificate-exporter"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "f/prompts.chat",
+      "source_entries": [
+        "embaya/prompts.chat"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "Faceplugin-ltd/Open-Source-Face-Recognition-SDK",
+      "source_entries": [
+        "Faceplugin-ltd/Open-Source-Face-Recognition-SDK"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Fincept-Corporation/FinceptTerminal",
+      "source_entries": [
+        "embaya/FinceptTerminal",
+        "Fincept-Corporation/FinceptTerminal"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "firecow/gitlab-ci-local",
+      "source_entries": [
+        "firecow/gitlab-ci-local"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "floci-io/floci",
+      "source_entries": [
+        "embaya/floci"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "flomesh-io/ztm",
+      "source_entries": [
+        "flomesh-io/ztm"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Forward-Future/loopy",
+      "source_entries": [
+        "Forward-Future/loopy"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "FriendsOfSymfony/FOSRestBundle",
+      "source_entries": [
+        "FriendsOfSymfony/FOSRestBundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "friuns2/BlackFriday-GPTs-Prompts",
+      "source_entries": [
+        "friuns2/BlackFriday-GPTs-Prompts"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "FujiwaraChoki/MoneyPrinterV2",
+      "source_entries": [
+        "embaya/moneyprinterv2"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "geraldwuhoo/homelab-iac",
+      "source_entries": [
+        "embaya/homelab-iac"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "getplumber/plumber",
+      "source_entries": [
+        "getplumber/plumber"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "github/spec-kit",
+      "source_entries": [
+        "github/spec-kit"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "gitroomhq/postiz-app",
+      "source_entries": [
+        "embaya/postiz-app",
+        "gitroomhq/postiz-app"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "GokuMohandas/Made-With-ML",
+      "source_entries": [
+        "embaya/Made-With-ML"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "goldmansachs/gs-quant",
+      "source_entries": [
+        "embaya/gs-quant",
+        "goldmansachs/gs-quant"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "google-gemini/gemini-cli",
+      "source_entries": [
+        "embaya/gemini-cli"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "googleapis/go-genai",
+      "source_entries": [
+        "embaya/go-genai"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "grokability/snipe-it",
+      "source_entries": [
+        "grokability/snipe-it"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "guzzle/guzzle",
+      "source_entries": [
+        "guzzle/guzzle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "guzzle/promises",
+      "source_entries": [
+        "guzzle/promises"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "gyoridavid/ai_agents_az",
+      "source_entries": [
+        "embaya/ai_agents_az"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "hakimel/reveal.js",
+      "source_entries": [
+        "hakimel/reveal.js"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "HariSekhon/DevOps-Bash-tools",
+      "source_entries": [
+        "embaya/DevOps-Bash-tools",
+        "HariSekhon/DevOps-Bash-tools"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "harry0703/MoneyPrinterTurbo",
+      "source_entries": [
+        "embaya/MoneyPrinterTurbo"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "hashicorp/terraform-provider-aws",
+      "source_entries": [
+        "embaya/terraform-provider-aws"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "hejrafal/reactchat",
+      "source_entries": [
+        "hejrafal/reactchat"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "helm/examples",
+      "source_entries": [
+        "helm/examples"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "henrikrexed/Autoscaling-workshop",
+      "source_entries": [
+        "henrikrexed/Autoscaling-workshop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "herdrdev/herdr",
+      "source_entries": [
+        "herdrdev/herdr"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "herveaurel/HomeAssistant",
+      "source_entries": [
+        "herveaurel/HomeAssistant"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "heyalexej/awesome-images",
+      "source_entries": [
+        "heyalexej/awesome-images"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "heygen-com/hyperframes",
+      "source_entries": [
+        "heygen-com/hyperframes"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "HKUDS/Vibe-Trading",
+      "source_entries": [
+        "embaya/vibe-trading"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "HKUDS/VideoRAG",
+      "source_entries": [
+        "embaya/videorag",
+        "HKUDS/VideoRAG"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "holaboss-ai/holaOS",
+      "source_entries": [
+        "holaboss-ai/holaOS"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "homelab-00/TranscriptionSuite",
+      "source_entries": [
+        "homelab-00/TranscriptionSuite"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "HoussemDellai/github-actions-course",
+      "source_entries": [
+        "HoussemDellai/github-actions-course"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "HQarroum/docker-android",
+      "source_entries": [
+        "embaya/docker-android",
+        "HQarroum/docker-android"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "huangruiteng/loopx",
+      "source_entries": [
+        "embaya/loopx",
+        "huangruiteng/loopx"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "huggingface/speech-to-speech",
+      "source_entries": [
+        "embaya/speech-to-speech",
+        "huggingface/speech-to-speech"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "hwi/HWIOAuthBundle",
+      "source_entries": [
+        "hwi/HWIOAuthBundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "ImDarkTom/LlamaPen",
+      "source_entries": [
+        "ImDarkTom/LlamaPen"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "immich-app/immich",
+      "source_entries": [
+        "immich-app/immich"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Incenteev/ParameterHandler",
+      "source_entries": [
+        "Incenteev/ParameterHandler"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "infracost/actions",
+      "source_entries": [
+        "embaya/actions"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "j3ssie/metabigor",
+      "source_entries": [
+        "embaya/metabigor"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "Jane-xiaoer/claude-skill-web-clone",
+      "source_entries": [
+        "Jane-xiaoer/claude-skill-web-clone"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "jbrunton/gflows",
+      "source_entries": [
+        "embaya/gflows"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "JCodesMore/ai-website-cloner-template",
+      "source_entries": [
+        "embaya/ai-website-cloner-template",
+        "JCodesMore/ai-website-cloner-template"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "jellyfin/jellyfin",
+      "source_entries": [
+        "jellyfin/jellyfin"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "jitsucom/jitsu",
+      "source_entries": [
+        "embaya/jitsu",
+        "jitsucom/jitsu"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "jorge07/symfony-7-es-cqrs-boilerplate",
+      "source_entries": [
+        "jorge07/symfony-7-es-cqrs-boilerplate"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "jsonrainbow/json-schema",
+      "source_entries": [
+        "jsonrainbow/json-schema"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "jtig37/free-llm-api-resources",
+      "source_entries": [
+        "embaya/free-llm-api-resources"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "K-Dense-AI/scientific-agent-skills",
+      "source_entries": [
+        "embaya/scientific-agent-skills"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "kalessil/phpinspectionsea",
+      "source_entries": [
+        "embaya/phpinspectionsea"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "kamilstanuch/Autocrop-vertical",
+      "source_entries": [
+        "embaya/openshorts"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "kastenhq/kubestr",
+      "source_entries": [
+        "kastenhq/kubestr"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "kelseyhightower/kubernetes-the-hard-way",
+      "source_entries": [
+        "mmumshad/kubernetes-the-hard-way"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "khoj-ai/khoj",
+      "source_entries": [
+        "embaya/khoj",
+        "khoj-ai/khoj"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "khuedoan/homelab",
+      "source_entries": [
+        "khuedoan/homelab"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "kiali/kiali",
+      "source_entries": [
+        "kiali/kiali"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "kibatic/symfony-docker",
+      "source_entries": [
+        "kibatic/symfony-docker"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "kilimchoi/engineering-blogs",
+      "source_entries": [
+        "kilimchoi/engineering-blogs"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "kodekloudhub/certified-kubernetes-administrator-course",
+      "source_entries": [
+        "embaya/certified-kubernetes-administrator-course",
+        "kodekloudhub/certified-kubernetes-administrator-course"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "krillinai/KrillinAI",
+      "source_entries": [
+        "embaya/KrillinAI",
+        "krillinai/KrillinAI"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "krypton-byte/neonize",
+      "source_entries": [
+        "embaya/neonize",
+        "krypton-byte/neonize"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "kvcache-ai/ktransformers",
+      "source_entries": [
+        "kvcache-ai/ktransformers"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Leonxlnx/taste-skill",
+      "source_entries": [
+        "Leonxlnx/taste-skill"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "likec4/likec4",
+      "source_entries": [
+        "likec4/likec4"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "lllyasviel/Fooocus",
+      "source_entries": [
+        "embaya/Fooocus",
+        "lllyasviel/Fooocus"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "loft-sh/vind",
+      "source_entries": [
+        "loft-sh/vind"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "louislam/uptime-kuma",
+      "source_entries": [
+        "louislam/uptime-kuma"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "lyogavin/airllm",
+      "source_entries": [
+        "lyogavin/airllm"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "marcincuber/eks",
+      "source_entries": [
+        "marcincuber/eks"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "MartinxMax/BloodCat",
+      "source_entries": [
+        "embaya/BloodCat"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "masterking32/MasterDnsVPN",
+      "source_entries": [
+        "embaya/masterdnsvpn"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "mattpocock/skills",
+      "source_entries": [
+        "mattpocock/skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "maxmind/GeoIP2-php",
+      "source_entries": [
+        "maxmind/GeoIP2-php"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "maxmind/MaxMind-DB-Reader-php",
+      "source_entries": [
+        "maxmind/MaxMind-DB-Reader-php"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "maxmind/web-service-common-php",
+      "source_entries": [
+        "maxmind/web-service-common-php"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "meituan-longcat/LongCat-Video",
+      "source_entries": [
+        "embaya/longcat-video",
+        "meituan-longcat/LongCat-Video"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "mersile-atti/PrestaShop",
+      "source_entries": [
+        "mersile-atti/PrestaShop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "microsoft/AI-Engineering-Coach",
+      "source_entries": [
+        "embaya/ai-engineering-coach"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "microsoft/VibeVoice",
+      "source_entries": [
+        "microsoft/VibeVoice"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "midudev/autoskills",
+      "source_entries": [
+        "embaya/autoskills"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "mirakl/sdk-php-shop",
+      "source_entries": [
+        "mirakl/sdk-php-shop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "mksglu/context-mode",
+      "source_entries": [
+        "mksglu/context-mode"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "mn-youssef/tn-municipality-api",
+      "source_entries": [
+        "mn-youssef/tn-municipality-api"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "MobileFirstLLC/social-media-hacker-list",
+      "source_entries": [
+        "MobileFirstLLC/social-media-hacker-list"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Moh4696/freecut",
+      "source_entries": [
+        "Moh4696/freecut"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "msitarzewski/agency-agents",
+      "source_entries": [
+        "embaya/agency-agents",
+        "msitarzewski/agency-agents"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "multica-ai/andrej-karpathy-skills",
+      "source_entries": [
+        "embaya/andrej-karpathy-skills",
+        "multica-ai/andrej-karpathy-skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "multica-ai/multica",
+      "source_entries": [
+        "embaya/multica",
+        "multica-ai/multica"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "mxkh/symfony-api-platform-ddd-cqrs-boilerplate",
+      "source_entries": [
+        "mxkh/symfony-api-platform-ddd-cqrs-boilerplate"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "myclabs/ArrayComparator",
+      "source_entries": [
+        "myclabs/ArrayComparator"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "myshell-ai/OpenVoice",
+      "source_entries": [
+        "myshell-ai/OpenVoice"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "netbootxyz/netboot.xyz",
+      "source_entries": [
+        "netbootxyz/netboot.xyz"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Netw0rkNoob/VulnClaw",
+      "source_entries": [
+        "embaya/VulnClaw",
+        "Netw0rkNoob/VulnClaw"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "source_entries": [
+        "embaya/ui-ux-pro-max-skill"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "nexu-io/open-design",
+      "source_entries": [
+        "embaya/open-design"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "nicedreamzapp/claude-code-local",
+      "source_entries": [
+        "embaya/claude-code-local",
+        "nicedreamzapp/claude-code-local"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Nicolepcx/ai-agents-the-definitive-guide",
+      "source_entries": [
+        "embaya/ai-agents-the-definitive-guide"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "nidhinjs/prompt-master",
+      "source_entries": [
+        "embaya/prompt-master",
+        "nidhinjs/prompt-master"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "nilbuild/design-patterns-for-humans",
+      "source_entries": [
+        "nilbuild/design-patterns-for-humans"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "nilbuild/developer-roadmap",
+      "source_entries": [
+        "embaya/developer-roadmap",
+        "nilbuild/developer-roadmap"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "NotHarshhaa/DevOps-Interview-Questions",
+      "source_entries": [
+        "embaya/DevOps-Interview-Questions"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "NousResearch/hermes-agent",
+      "source_entries": [
+        "embaya/hermes-agent",
+        "NousResearch/hermes-agent"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "nowork-studio/notfair-plugin",
+      "source_entries": [
+        "nowork-studio/notfair-plugin"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "nukeop/nuclear",
+      "source_entries": [
+        "nukeop/nuclear"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "nuver-labs/vps-audit",
+      "source_entries": [
+        "embaya/vps-audit"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "obra/superpowers",
+      "source_entries": [
+        "embaya/superpowers",
+        "obra/superpowers"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "ofaurax/Notes",
+      "source_entries": [
+        "ofaurax/Notes"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Ola-Daniel/Production_Ready_PrestaShop_Deployment",
+      "source_entries": [
+        "Ola-Daniel/Production_Ready_PrestaShop_Deployment"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "ombharatiya/ai-system-design-guide",
+      "source_entries": [
+        "ombharatiya/ai-system-design-guide"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "omnigent-ai/omnigent",
+      "source_entries": [
+        "embaya/omnigent"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "oop7/YTSage",
+      "source_entries": [
+        "embaya/ytsage"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "source_entries": [
+        "Open-LLM-VTuber/Open-LLM-VTuber"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "open-webui/open-webui",
+      "source_entries": [
+        "open-webui/open-webui"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "openai/whisper",
+      "source_entries": [
+        "openai/whisper"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "OpenBMB/VoxCPM",
+      "source_entries": [
+        "embaya/voxcpm",
+        "OpenBMB/VoxCPM"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "OpenCut-app/OpenCut",
+      "source_entries": [
+        "embaya/opencut"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "opendatalab/MinerU",
+      "source_entries": [
+        "embaya/mineru"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "openfga/openfga",
+      "source_entries": [
+        "openfga/openfga"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "openobserve/openobserve",
+      "source_entries": [
+        "openobserve/openobserve"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "openswarm-ai/openswarm",
+      "source_entries": [
+        "embaya/openswarm"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "operator-framework/awesome-operators",
+      "source_entries": [
+        "operator-framework/awesome-operators"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "oracle-devrel/oracle-ai-developer-hub",
+      "source_entries": [
+        "embaya/oracle-ai-developer-hub"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "ory/hydra-maester",
+      "source_entries": [
+        "embaya/hydra-maester",
+        "ory/hydra-maester"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "ory/k8s",
+      "source_entries": [
+        "embaya/k8s"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "Osmantic/ODS",
+      "source_entries": [
+        "embaya/ods",
+        "Osmantic/ODS"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "PacktPublishing/Learning-DevOps-Second-Edition",
+      "source_entries": [
+        "PacktPublishing/Learning-DevOps-Second-Edition"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "PacktPublishing/Practical-Module-Development-for-Prestashop-8",
+      "source_entries": [
+        "PacktPublishing/Practical-Module-Development-for-Prestashop-8"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Panniantong/Agent-Reach",
+      "source_entries": [
+        "embaya/agent-reach",
+        "Panniantong/Agent-Reach"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "papermark/papermark",
+      "source_entries": [
+        "papermark/papermark"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "pascalorg/editor",
+      "source_entries": [
+        "embaya/editor",
+        "pascalorg/editor"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "patchy631/ai-engineering-hub",
+      "source_entries": [
+        "embaya/ai-engineering-hub"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "Paymenter/Paymenter",
+      "source_entries": [
+        "embaya/paymenter",
+        "Paymenter/Paymenter"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "penpot/penpot",
+      "source_entries": [
+        "penpot/penpot"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "phonomenal/DemoDay-Actions-CD",
+      "source_entries": [
+        "phonomenal/DemoDay-Actions-CD"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "PHP-CS-Fixer/PHP-CS-Fixer",
+      "source_entries": [
+        "PHP-CS-Fixer/PHP-CS-Fixer"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "plausible/analytics",
+      "source_entries": [
+        "embaya/analytics"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "PrivateBin/PrivateBin",
+      "source_entries": [
+        "PrivateBin/PrivateBin"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "public-apis/public-apis",
+      "source_entries": [
+        "embaya/public-apis"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "pulumi/pulumi",
+      "source_entries": [
+        "pulumi/pulumi"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Pythagora-io/gpt-pilot",
+      "source_entries": [
+        "Pythagora-io/gpt-pilot"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "QwenLM/qwen-code",
+      "source_entries": [
+        "embaya/qwen-code"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "ravindragith/zie619",
+      "source_entries": [
+        "embaya/zie619"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "redhat-cop/agnosticd",
+      "source_entries": [
+        "redhat-cop/agnosticd"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "repowise-dev/repowise",
+      "source_entries": [
+        "repowise-dev/repowise"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "ringcentral/psr7",
+      "source_entries": [
+        "guzzle/psr7"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "ripienaar/free-for-dev",
+      "source_entries": [
+        "embaya/free-for-dev"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "rmyndharis/OpenWA",
+      "source_entries": [
+        "embaya/OpenWA"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "robusta-dev/krr",
+      "source_entries": [
+        "robusta-dev/krr"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "rogervila/array-diff-multidimensional",
+      "source_entries": [
+        "rogervila/array-diff-multidimensional"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "ruvnet/ruflo",
+      "source_entries": [
+        "embaya/ruflo",
+        "ruvnet/ruflo"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "ruvnet/RuView",
+      "source_entries": [
+        "embaya/ruview"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "SakiRinn/LiveCaptions-Translator",
+      "source_entries": [
+        "embaya/LiveCaptions-Translator",
+        "SakiRinn/LiveCaptions-Translator"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "scadastrangelove/awesome-ai-security-tools",
+      "source_entries": [
+        "scadastrangelove/awesome-ai-security-tools"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "schmittjoh/JMSSerializerBundle",
+      "source_entries": [
+        "schmittjoh/JMSSerializerBundle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "schmittjoh/metadata",
+      "source_entries": [
+        "schmittjoh/metadata"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "schmittjoh/parser-lib",
+      "source_entries": [
+        "schmittjoh/parser-lib"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "schmittjoh/serializer",
+      "source_entries": [
+        "schmittjoh/serializer"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "screenpipe/screenpipe",
+      "source_entries": [
+        "embaya/screenpipe"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "Seldaek/monolog",
+      "source_entries": [
+        "Seldaek/monolog"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "semgrep/semgrep",
+      "source_entries": [
+        "semgrep/semgrep"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "ShadowHackrs/Gmail-infinity",
+      "source_entries": [
+        "embaya/gmail-infinity"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "shakahl/mse_ai_api",
+      "source_entries": [
+        "embaya/mse_ai_api"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "shanraisshan/claude-code-best-practice",
+      "source_entries": [
+        "embaya/claude-code-best-practice",
+        "shanraisshan/claude-code-best-practice"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "shapecode/hidden-entity-type-bundle",
+      "source_entries": [
+        "embaya/hidden-entity-type-bundle"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "Shubhamsaboo/awesome-llm-apps",
+      "source_entries": [
+        "embaya/awesome-llm-apps",
+        "Shubhamsaboo/awesome-llm-apps"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "siddharthvaddem/openscreen",
+      "source_entries": [
+        "embaya/openscreen",
+        "siddharthvaddem/openscreen"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "sidinsearch/superbrain",
+      "source_entries": [
+        "embaya/superbrain",
+        "sidinsearch/superbrain"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "silentz/arch-linux-install-guide",
+      "source_entries": [
+        "silentz/arch-linux-install-guide"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "slimtoolkit/slim",
+      "source_entries": [
+        "slimtoolkit/slim"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "slvDev/esp32-ai",
+      "source_entries": [
+        "slvDev/esp32-ai"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "snail007/goproxy",
+      "source_entries": [
+        "snail007/goproxy"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Snouzy/workout-cool",
+      "source_entries": [
+        "embaya/workout-cool"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "sofianedjerbi/etcdme",
+      "source_entries": [
+        "embaya/etcdme"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "solo-io/gitops-library",
+      "source_entries": [
+        "solo-io/gitops-library"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "StarTrail-org/PixelRAG",
+      "source_entries": [
+        "embaya/pixelrag"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "supabase/supabase",
+      "source_entries": [
+        "supabase/supabase"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "supertone-inc/supertonic",
+      "source_entries": [
+        "embaya/supertonic"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "Sylius/Sylius",
+      "source_entries": [
+        "embaya/Sylius"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask",
+      "source_entries": [
+        "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "TencentCloud/CubeSandbox",
+      "source_entries": [
+        "embaya/cubesandbox"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "The-PR-Agent/pr-agent",
+      "source_entries": [
+        "The-PR-Agent/pr-agent"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "thedotmack/claude-mem",
+      "source_entries": [
+        "embaya/claude-mem",
+        "thedotmack/claude-mem"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "theSoberSobber/Docker-Manager",
+      "source_entries": [
+        "theSoberSobber/Docker-Manager"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "tldraw/tldraw",
+      "source_entries": [
+        "tldraw/tldraw"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "TomWright/dasel",
+      "source_entries": [
+        "TomWright/dasel"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "trimstray/the-book-of-secret-knowledge",
+      "source_entries": [
+        "embaya/the-book-of-secret-knowledge"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "tteck/Proxmox",
+      "source_entries": [
+        "embaya/Proxmox",
+        "tteck/Proxmox"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "tw93/Pake",
+      "source_entries": [
+        "embaya/pake"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "twentyhq/twenty",
+      "source_entries": [
+        "embaya/twenty",
+        "twentyhq/twenty"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "twuni/docker-registry.helm",
+      "source_entries": [
+        "twuni/docker-registry.helm"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "tycrek/degoogle",
+      "source_entries": [
+        "tycrek/degoogle"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "typesense/showcase-ecommerce-store",
+      "source_entries": [
+        "embaya/showcase-ecommerce-store",
+        "typesense/showcase-ecommerce-store"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "ultraworkers/claw-code",
+      "source_entries": [
+        "embaya/claw-code"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "ungoogled-software/ungoogled-chromium",
+      "source_entries": [
+        "ungoogled-software/ungoogled-chromium"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "usekaneo/kaneo",
+      "source_entries": [
+        "embaya/kaneo",
+        "usekaneo/kaneo"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "usememos/memos",
+      "source_entries": [
+        "embaya/memos",
+        "usememos/memos"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "usestrix/strix",
+      "source_entries": [
+        "usestrix/strix"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "vantage-sh/ec2instances.info",
+      "source_entries": [
+        "vantage-sh/ec2instances.info"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "vas3k/TaxHacker",
+      "source_entries": [
+        "embaya/taxhacker"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "vasu-devs/JustHireMe",
+      "source_entries": [
+        "embaya/justhireme"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "virgiliojr94/book-to-skill",
+      "source_entries": [
+        "embaya/book-to-skill",
+        "virgiliojr94/book-to-skill"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "vorojar/Folio-OCR",
+      "source_entries": [
+        "embaya/folio-ocr"
+      ],
+      "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "wagoodman/dive",
+      "source_entries": [
+        "wagoodman/dive"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "wailsapp/wails",
+      "source_entries": [
+        "wailsapp/wails"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "woprrr/training-sf5",
+      "source_entries": [
+        "woprrr/training-sf5"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source_entries": [
+        "embaya/system-prompts-and-models-of-ai-tools",
+        "x1xhlol/system-prompts-and-models-of-ai-tools"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "xai-org/grok-build",
+      "source_entries": [
+        "embaya/grok-build"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "yt-dlp/yt-dlp",
+      "source_entries": [
+        "embaya/yt-dlp"
+      ],
+      "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "Zackriya-Solutions/meetily",
+      "source_entries": [
+        "embaya/meetily",
+        "Zackriya-Solutions/meetily"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "zeromq/php-zmq",
+      "source_entries": [
+        "zeromq/php-zmq"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "zerostaticthemes/square-ui",
+      "source_entries": [
+        "embaya/square-ui",
+        "zerostaticthemes/square-ui"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "Zie619/n8n-workflows",
+      "source_entries": [
+        "embaya/n8n-workflows"
+      ],
+      "starred": false
+    }
+  ]
 }
