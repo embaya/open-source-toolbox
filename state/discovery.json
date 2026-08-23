@@ -55,9 +55,10 @@
       "forked": true,
       "repository": "affaan-m/ECC",
       "source_entries": [
+        "affaan-m/ECC",
         "embaya/everything-claude-code"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": false,
@@ -571,6 +572,15 @@
       "repository": "ComposioHQ/awesome-claude-skills",
       "source_entries": [
         "ComposioHQ/awesome-claude-skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "cporter202/ai-growth-stack",
+      "source_entries": [
+        "cporter202/ai-growth-stack",
+        "embaya/ai-growth-stack"
       ],
       "starred": true
     },
@@ -1794,6 +1804,14 @@
       "source_entries": [
         "embaya/superpowers",
         "obra/superpowers"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "odysseus-dev/odysseus",
+      "source_entries": [
+        "odysseus-dev/odysseus"
       ],
       "starred": true
     },
