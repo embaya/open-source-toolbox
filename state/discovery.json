@@ -2679,6 +2679,15 @@
     },
     {
       "forked": true,
+      "repository": "zhouxiaoka/autoclip",
+      "source_entries": [
+        "embaya/autoclip",
+        "zhouxiaoka/autoclip"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "Zie619/n8n-workflows",
       "source_entries": [
         "embaya/n8n-workflows"
