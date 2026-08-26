@@ -1043,6 +1043,15 @@
       "starred": true
     },
     {
+      "forked": true,
+      "repository": "guillaumemeyer/watermarks-remover",
+      "source_entries": [
+        "embaya/watermarks-remover",
+        "guillaumemeyer/watermarks-remover"
+      ],
+      "starred": true
+    },
+    {
       "forked": false,
       "repository": "guzzle/guzzle",
       "source_entries": [
