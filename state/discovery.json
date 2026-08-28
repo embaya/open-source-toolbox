@@ -671,9 +671,19 @@
       "forked": true,
       "repository": "darkzOGx/youtube-automation-agent",
       "source_entries": [
+        "darkzOGx/youtube-automation-agent",
         "embaya/youtube-automation-agent"
       ],
-      "starred": false
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "datalab-to/marker",
+      "source_entries": [
+        "datalab-to/marker",
+        "embaya/marker"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -2185,6 +2195,15 @@
     },
     {
       "forked": true,
+      "repository": "rohitg00/agentmemory",
+      "source_entries": [
+        "embaya/agentmemory",
+        "rohitg00/agentmemory"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "ruvnet/ruflo",
       "source_entries": [
         "embaya/ruflo",
@@ -2633,14 +2652,6 @@
       "repository": "wailsapp/wails",
       "source_entries": [
         "wailsapp/wails"
-      ],
-      "starred": true
-    },
-    {
-      "forked": false,
-      "repository": "woprrr/training-sf5",
-      "source_entries": [
-        "woprrr/training-sf5"
       ],
       "starred": true
     },
