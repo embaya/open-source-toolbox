@@ -1730,9 +1730,10 @@
       "forked": true,
       "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
       "source_entries": [
-        "embaya/ui-ux-pro-max-skill"
+        "embaya/ui-ux-pro-max-skill",
+        "nextlevelbuilder/ui-ux-pro-max-skill"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
