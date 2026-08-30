@@ -464,6 +464,15 @@
     },
     {
       "forked": true,
+      "repository": "charlie947/social-media-skills",
+      "source_entries": [
+        "charlie947/social-media-skills",
+        "embaya/social-media-skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "Checkmarx/kics",
       "source_entries": [
         "embaya/kics"
@@ -904,6 +913,14 @@
         "embaya/prompts.chat"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "facebook/astryx",
+      "source_entries": [
+        "facebook/astryx"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -2479,6 +2496,14 @@
       "repository": "theSoberSobber/Docker-Manager",
       "source_entries": [
         "theSoberSobber/Docker-Manager"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "TidyFactor/Styler",
+      "source_entries": [
+        "TidyFactor/Styler"
       ],
       "starred": true
     },
