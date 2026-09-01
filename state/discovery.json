@@ -910,9 +910,10 @@
       "forked": true,
       "repository": "f/prompts.chat",
       "source_entries": [
-        "embaya/prompts.chat"
+        "embaya/prompts.chat",
+        "f/prompts.chat"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": false,
@@ -2595,6 +2596,15 @@
       "repository": "ungoogled-software/ungoogled-chromium",
       "source_entries": [
         "ungoogled-software/ungoogled-chromium"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "unslothai/unsloth",
+      "source_entries": [
+        "embaya/unsloth",
+        "unslothai/unsloth"
       ],
       "starred": true
     },
