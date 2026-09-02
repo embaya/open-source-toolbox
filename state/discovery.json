@@ -594,6 +594,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "cporter202/agentic-ai-apis",
+      "source_entries": [
+        "cporter202/agentic-ai-apis"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "cporter202/ai-growth-stack",
       "source_entries": [
@@ -2758,6 +2766,15 @@
         "embaya/n8n-workflows"
       ],
       "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "zubair-trabzada/geo-seo-claude",
+      "source_entries": [
+        "embaya/geo-seo-claude",
+        "zubair-trabzada/geo-seo-claude"
+      ],
+      "starred": true
     }
   ]
 }
