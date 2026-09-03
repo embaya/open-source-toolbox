@@ -704,6 +704,15 @@
     },
     {
       "forked": true,
+      "repository": "debpalash/VoiceStudio",
+      "source_entries": [
+        "debpalash/VoiceStudio",
+        "embaya/voicestudio"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "DesignPatternsPHP/DesignPatternsPHP",
       "source_entries": [
         "embaya/DesignPatternsPHP"
