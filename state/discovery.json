@@ -888,6 +888,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "elysiajs/elysia",
+      "source_entries": [
+        "elysiajs/elysia"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "embaya/free-llm-api-keys",
       "resolution_errors": [
