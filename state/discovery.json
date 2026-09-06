@@ -1432,6 +1432,15 @@
       "starred": true
     },
     {
+      "forked": true,
+      "repository": "Katzca/AutoSocial",
+      "source_entries": [
+        "embaya/AutoSocial",
+        "Katzca/AutoSocial"
+      ],
+      "starred": true
+    },
+    {
       "forked": false,
       "repository": "kelseyhightower/kubernetes-the-hard-way",
       "source_entries": [
@@ -1491,10 +1500,10 @@
     },
     {
       "forked": true,
-      "repository": "krillinai/KrillinAI",
+      "repository": "krillinai/OpenCreator",
       "source_entries": [
         "embaya/KrillinAI",
-        "krillinai/KrillinAI"
+        "krillinai/OpenCreator"
       ],
       "starred": true
     },
