@@ -1534,6 +1534,14 @@
     },
     {
       "forked": false,
+      "repository": "lidge-jun/opencodex",
+      "source_entries": [
+        "lidge-jun/opencodex"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "likec4/likec4",
       "source_entries": [
         "likec4/likec4"
@@ -1546,6 +1554,14 @@
       "source_entries": [
         "embaya/Fooocus",
         "lllyasviel/Fooocus"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "lnkiai/m3e-canvas",
+      "source_entries": [
+        "lnkiai/m3e-canvas"
       ],
       "starred": true
     },
