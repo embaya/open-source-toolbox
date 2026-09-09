@@ -654,6 +654,15 @@
     },
     {
       "forked": true,
+      "repository": "CutWire-Studios/Drift",
+      "source_entries": [
+        "CutWire-Studios/Drift",
+        "embaya/Drift"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "czlonkowski/n8n-mcp",
       "source_entries": [
         "embaya/n8n-mcp"
@@ -2495,7 +2504,7 @@
     },
     {
       "forked": true,
-      "repository": "supertone-inc/supertonic",
+      "repository": "supertone-oss-archive/supertonic",
       "source_entries": [
         "embaya/supertonic"
       ],
