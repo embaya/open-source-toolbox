@@ -2404,6 +2404,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "Shpigford/chops",
+      "source_entries": [
+        "Shpigford/chops"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Shubhamsaboo/awesome-llm-apps",
       "source_entries": [
