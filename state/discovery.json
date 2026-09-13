@@ -210,6 +210,14 @@
     },
     {
       "forked": false,
+      "repository": "antvis/Infographic",
+      "source_entries": [
+        "antvis/Infographic"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "anyproto/anytype-ts",
       "source_entries": [
         "anyproto/anytype-ts"
@@ -305,6 +313,15 @@
       "repository": "aws/aws-sdk-php-symfony",
       "source_entries": [
         "aws/aws-sdk-php-symfony"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "ayghri/i-have-adhd",
+      "source_entries": [
+        "ayghri/i-have-adhd",
+        "embaya/i-have-adhd"
       ],
       "starred": true
     },
@@ -1142,6 +1159,15 @@
       "repository": "hakimel/reveal.js",
       "source_entries": [
         "hakimel/reveal.js"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "HAKORADev/VODER",
+      "source_entries": [
+        "embaya/voder",
+        "HAKORADev/VODER"
       ],
       "starred": true
     },
@@ -2408,6 +2434,14 @@
       "repository": "Shpigford/chops",
       "source_entries": [
         "Shpigford/chops"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "shridarpatil/whatomate",
+      "source_entries": [
+        "shridarpatil/whatomate"
       ],
       "starred": true
     },
