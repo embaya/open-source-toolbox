@@ -111,6 +111,14 @@
     },
     {
       "forked": false,
+      "repository": "alibaba/open-code-review",
+      "source_entries": [
+        "alibaba/open-code-review"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "alibaba/zvec",
       "source_entries": [
         "alibaba/zvec"
@@ -867,6 +875,14 @@
     },
     {
       "forked": false,
+      "repository": "Dpro-at/Tel-Agent",
+      "source_entries": [
+        "Dpro-at/Tel-Agent"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "earthtojake/text-to-cad",
       "source_entries": [
         "earthtojake/text-to-cad"
@@ -885,9 +901,10 @@
       "forked": true,
       "repository": "Egonex-AI/Understand-Anything",
       "source_entries": [
+        "Egonex-AI/Understand-Anything",
         "embaya/Understand-Anything"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": false,
@@ -1433,6 +1450,14 @@
         "embaya/free-llm-api-resources"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "jzjzzzzzzz/agent-me",
+      "source_entries": [
+        "jzjzzzzzzz/agent-me"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -2259,6 +2284,14 @@
     },
     {
       "forked": false,
+      "repository": "RightNow-AI/picolm",
+      "source_entries": [
+        "RightNow-AI/picolm"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "ringcentral/psr7",
       "source_entries": [
         "guzzle/psr7"
@@ -2428,6 +2461,14 @@
         "embaya/hidden-entity-type-bundle"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "shiaho777/web-to-app",
+      "source_entries": [
+        "shiaho777/web-to-app"
+      ],
+      "starred": true
     },
     {
       "forked": false,
