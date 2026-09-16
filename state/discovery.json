@@ -738,6 +738,15 @@
     },
     {
       "forked": true,
+      "repository": "davepoon/buildwithclaude",
+      "source_entries": [
+        "davepoon/buildwithclaude",
+        "embaya/buildwithclaude"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "debpalash/VoiceStudio",
       "source_entries": [
         "debpalash/VoiceStudio",
@@ -1479,9 +1488,10 @@
       "forked": true,
       "repository": "kamilstanuch/Autocrop-vertical",
       "source_entries": [
-        "embaya/openshorts"
+        "embaya/openshorts",
+        "mutonby/openshorts"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": false,
