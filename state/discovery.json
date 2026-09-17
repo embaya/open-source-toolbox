@@ -1356,6 +1356,14 @@
     },
     {
       "forked": false,
+      "repository": "hypit-ai/hypit",
+      "source_entries": [
+        "hypit-ai/hypit"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "ImDarkTom/LlamaPen",
       "source_entries": [
         "ImDarkTom/LlamaPen"
