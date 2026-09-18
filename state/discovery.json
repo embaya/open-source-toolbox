@@ -69,6 +69,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "agentmd/agent.md",
+      "source_entries": [
+        "agentmd/agent.md"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "agentscope-ai/agentscope",
       "source_entries": [
@@ -1467,14 +1475,6 @@
         "embaya/free-llm-api-resources"
       ],
       "starred": false
-    },
-    {
-      "forked": false,
-      "repository": "jzjzzzzzzz/agent-me",
-      "source_entries": [
-        "jzjzzzzzzz/agent-me"
-      ],
-      "starred": true
     },
     {
       "forked": true,
