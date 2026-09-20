@@ -1338,15 +1338,6 @@
     },
     {
       "forked": true,
-      "repository": "huangruiteng/loopx",
-      "source_entries": [
-        "embaya/loopx",
-        "huangruiteng/loopx"
-      ],
-      "starred": true
-    },
-    {
-      "forked": true,
       "repository": "huggingface/speech-to-speech",
       "source_entries": [
         "embaya/speech-to-speech",
@@ -1648,6 +1639,15 @@
       "repository": "loft-sh/vind",
       "source_entries": [
         "loft-sh/vind"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "loopx-project/loopx",
+      "source_entries": [
+        "embaya/loopx",
+        "loopx-project/loopx"
       ],
       "starred": true
     },
