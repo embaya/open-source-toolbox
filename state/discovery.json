@@ -1106,6 +1106,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "githubnext/localjev",
+      "source_entries": [
+        "githubnext/localjev"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "gitroomhq/postiz-app",
       "source_entries": [
@@ -2681,6 +2689,14 @@
       "repository": "TomWright/dasel",
       "source_entries": [
         "TomWright/dasel"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "totec448-spec/chat-on-steroids",
+      "source_entries": [
+        "totec448-spec/chat-on-steroids"
       ],
       "starred": true
     },
