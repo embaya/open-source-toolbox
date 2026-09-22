@@ -1685,6 +1685,15 @@
     },
     {
       "forked": true,
+      "repository": "markfulton/ai-employees",
+      "source_entries": [
+        "embaya/ai-employees",
+        "markfulton/ai-employees"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "MartinxMax/BloodCat",
       "source_entries": [
         "embaya/BloodCat"
