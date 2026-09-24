@@ -728,14 +728,6 @@
       "starred": true
     },
     {
-      "forked": false,
-      "repository": "danny-avila/LibreChat",
-      "source_entries": [
-        "danny-avila/LibreChat"
-      ],
-      "starred": true
-    },
-    {
       "forked": true,
       "repository": "darkzOGx/youtube-automation-agent",
       "source_entries": [
@@ -1615,6 +1607,14 @@
       "repository": "Leonxlnx/taste-skill",
       "source_entries": [
         "Leonxlnx/taste-skill"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "LibreChat-AI/LibreChat",
+      "source_entries": [
+        "LibreChat-AI/LibreChat"
       ],
       "starred": true
     },
