@@ -293,6 +293,15 @@
     },
     {
       "forked": true,
+      "repository": "awarexone/Agentic-Bug-Hunter",
+      "source_entries": [
+        "awarexone/Agentic-Bug-Hunter",
+        "embaya/Agentic-Bug-Hunter"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "awesome-selfhosted/awesome-selfhosted",
       "source_entries": [
         "awesome-selfhosted/awesome-selfhosted",
@@ -715,14 +724,6 @@
       "repository": "DaKheera47/job-ops",
       "source_entries": [
         "DaKheera47/job-ops"
-      ],
-      "starred": true
-    },
-    {
-      "forked": false,
-      "repository": "danny-avila/LibreChat",
-      "source_entries": [
-        "danny-avila/LibreChat"
       ],
       "starred": true
     },
@@ -1611,6 +1612,14 @@
     },
     {
       "forked": false,
+      "repository": "LibreChat-AI/LibreChat",
+      "source_entries": [
+        "LibreChat-AI/LibreChat"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "lidge-jun/opencodex",
       "source_entries": [
         "lidge-jun/opencodex"
@@ -1764,6 +1773,14 @@
         "embaya/ai-engineering-coach"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "microsoft/AI-For-Beginners",
+      "source_entries": [
+        "microsoft/AI-For-Beginners"
+      ],
+      "starred": true
     },
     {
       "forked": false,
