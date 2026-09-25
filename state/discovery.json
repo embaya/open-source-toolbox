@@ -2622,6 +2622,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "spotify/portal-ai-plugins",
+      "source_entries": [
+        "spotify/portal-ai-plugins"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "StarTrail-org/PixelRAG",
       "source_entries": [
