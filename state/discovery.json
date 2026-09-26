@@ -2869,6 +2869,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "vectorize-io/hindsight",
+      "source_entries": [
+        "vectorize-io/hindsight"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "virgiliojr94/book-to-skill",
       "source_entries": [
@@ -2898,6 +2906,14 @@
       "repository": "wailsapp/wails",
       "source_entries": [
         "wailsapp/wails"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "westpoint-io/mimik",
+      "source_entries": [
+        "westpoint-io/mimik"
       ],
       "starred": true
     },
