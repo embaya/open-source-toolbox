@@ -266,6 +266,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "ARPAHLS/skillware",
+      "source_entries": [
+        "ARPAHLS/skillware"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "asgeirtj/system_prompts_leaks",
       "source_entries": [
@@ -576,6 +584,14 @@
       "source_entries": [
         "codecrafters-io/build-your-own-x",
         "embaya/build-your-own-x"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "collabs-inc/collab-public",
+      "source_entries": [
+        "collabs-inc/collab-public"
       ],
       "starred": true
     },
