@@ -1493,6 +1493,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "jzjzzzzzzz/agent-me",
+      "source_entries": [
+        "jzjzzzzzzz/agent-me"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "K-Dense-AI/scientific-agent-skills",
       "source_entries": [
@@ -2747,6 +2755,14 @@
       "repository": "TomWright/dasel",
       "source_entries": [
         "TomWright/dasel"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "topoteretes/cognee",
+      "source_entries": [
+        "topoteretes/cognee"
       ],
       "starred": true
     },
