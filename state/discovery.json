@@ -266,6 +266,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "ARPAHLS/skillware",
+      "source_entries": [
+        "ARPAHLS/skillware"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "asgeirtj/system_prompts_leaks",
       "source_entries": [
@@ -576,6 +584,14 @@
       "source_entries": [
         "codecrafters-io/build-your-own-x",
         "embaya/build-your-own-x"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "collabs-inc/collab-public",
+      "source_entries": [
+        "collabs-inc/collab-public"
       ],
       "starred": true
     },
@@ -1475,6 +1491,14 @@
         "embaya/free-llm-api-resources"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "jzjzzzzzzz/agent-me",
+      "source_entries": [
+        "jzjzzzzzzz/agent-me"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -2392,6 +2416,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "rohitg00/ai-engineering-from-scratch",
+      "source_entries": [
+        "rohitg00/ai-engineering-from-scratch"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "ruvnet/ruflo",
       "source_entries": [
@@ -2622,6 +2654,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "spotify/portal-ai-plugins",
+      "source_entries": [
+        "spotify/portal-ai-plugins"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "StarTrail-org/PixelRAG",
       "source_entries": [
@@ -2715,6 +2755,14 @@
       "repository": "TomWright/dasel",
       "source_entries": [
         "TomWright/dasel"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "topoteretes/cognee",
+      "source_entries": [
+        "topoteretes/cognee"
       ],
       "starred": true
     },
@@ -2861,6 +2909,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "vectorize-io/hindsight",
+      "source_entries": [
+        "vectorize-io/hindsight"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "virgiliojr94/book-to-skill",
       "source_entries": [
@@ -2890,6 +2946,14 @@
       "repository": "wailsapp/wails",
       "source_entries": [
         "wailsapp/wails"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "westpoint-io/mimik",
+      "source_entries": [
+        "westpoint-io/mimik"
       ],
       "starred": true
     },
