@@ -678,6 +678,14 @@
     },
     {
       "forked": false,
+      "repository": "cporter202/automate-faceless-content",
+      "source_entries": [
+        "cporter202/automate-faceless-content"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "cporter202/scraping-apis-for-devs",
       "source_entries": [
         "cporter202/scraping-apis-for-devs"
@@ -1030,6 +1038,14 @@
       "repository": "Faceplugin-ltd/Open-Source-Face-Recognition-SDK",
       "source_entries": [
         "Faceplugin-ltd/Open-Source-Face-Recognition-SDK"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "FareedKhan-dev/kimi-k3-in-c",
+      "source_entries": [
+        "FareedKhan-dev/kimi-k3-in-c"
       ],
       "starred": true
     },
@@ -2146,6 +2162,15 @@
       "starred": true
     },
     {
+      "forked": true,
+      "repository": "OpenHands/OpenHands",
+      "source_entries": [
+        "embaya/OpenHands",
+        "OpenHands/OpenHands"
+      ],
+      "starred": true
+    },
+    {
       "forked": false,
       "repository": "openobserve/openobserve",
       "source_entries": [
@@ -2200,6 +2225,14 @@
       "source_entries": [
         "embaya/ods",
         "Osmantic/ODS"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "pablostanley/yoinks",
+      "source_entries": [
+        "pablostanley/yoinks"
       ],
       "starred": true
     },
@@ -2913,6 +2946,14 @@
       "repository": "vectorize-io/hindsight",
       "source_entries": [
         "vectorize-io/hindsight"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "video-db/call.md",
+      "source_entries": [
+        "video-db/call.md"
       ],
       "starred": true
     },
