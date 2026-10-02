@@ -433,6 +433,14 @@
     },
     {
       "forked": false,
+      "repository": "BerriAI/litellm",
+      "source_entries": [
+        "BerriAI/litellm"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Billionmail/BillionMail",
       "source_entries": [
         "Billionmail/BillionMail"
@@ -446,6 +454,14 @@
         "embaya/awesome-scalability"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "black-forest-labs/flux2",
+      "source_entries": [
+        "black-forest-labs/flux2"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -678,6 +694,14 @@
     },
     {
       "forked": false,
+      "repository": "cporter202/automate-faceless-content",
+      "source_entries": [
+        "cporter202/automate-faceless-content"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "cporter202/scraping-apis-for-devs",
       "source_entries": [
         "cporter202/scraping-apis-for-devs"
@@ -797,6 +821,14 @@
     },
     {
       "forked": false,
+      "repository": "DietrichGebert/ponytail",
+      "source_entries": [
+        "DietrichGebert/ponytail"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "DigitalPlatDev/FreeDomain",
       "source_entries": [
         "DigitalPlatDev/FreeDomain"
@@ -816,6 +848,14 @@
       "repository": "DioxusLabs/dioxus",
       "source_entries": [
         "DioxusLabs/dioxus"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "DIYgod/RSSHub",
+      "source_entries": [
+        "DIYgod/RSSHub"
       ],
       "starred": true
     },
@@ -1027,9 +1067,25 @@
     },
     {
       "forked": false,
+      "repository": "facebookresearch/audiocraft",
+      "source_entries": [
+        "facebookresearch/audiocraft"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Faceplugin-ltd/Open-Source-Face-Recognition-SDK",
       "source_entries": [
         "Faceplugin-ltd/Open-Source-Face-Recognition-SDK"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "FareedKhan-dev/kimi-k3-in-c",
+      "source_entries": [
+        "FareedKhan-dev/kimi-k3-in-c"
       ],
       "starred": true
     },
@@ -1257,6 +1313,14 @@
     },
     {
       "forked": false,
+      "repository": "hatchet-dev/hatchet",
+      "source_entries": [
+        "hatchet-dev/hatchet"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "hejrafal/reactchat",
       "source_entries": [
         "hejrafal/reactchat"
@@ -1292,6 +1356,14 @@
       "repository": "herveaurel/HomeAssistant",
       "source_entries": [
         "herveaurel/HomeAssistant"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "hexgrad/kokoro",
+      "source_entries": [
+        "hexgrad/kokoro"
       ],
       "starred": true
     },
@@ -1628,6 +1700,14 @@
     },
     {
       "forked": false,
+      "repository": "langfuse/langfuse",
+      "source_entries": [
+        "langfuse/langfuse"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Leonxlnx/taste-skill",
       "source_entries": [
         "Leonxlnx/taste-skill"
@@ -1647,6 +1727,14 @@
       "repository": "lidge-jun/opencodex",
       "source_entries": [
         "lidge-jun/opencodex"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Lightricks/LTX-Video",
+      "source_entries": [
+        "Lightricks/LTX-Video"
       ],
       "starred": true
     },
@@ -1746,6 +1834,14 @@
       "repository": "mattpocock/skills",
       "source_entries": [
         "mattpocock/skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "maximhq/bifrost",
+      "source_entries": [
+        "maximhq/bifrost"
       ],
       "starred": true
     },
@@ -2098,6 +2194,14 @@
     },
     {
       "forked": false,
+      "repository": "open-policy-agent/opa",
+      "source_entries": [
+        "open-policy-agent/opa"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "open-webui/open-webui",
       "source_entries": [
         "open-webui/open-webui"
@@ -2142,6 +2246,15 @@
       "repository": "openfga/openfga",
       "source_entries": [
         "openfga/openfga"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "OpenHands/OpenHands",
+      "source_entries": [
+        "embaya/OpenHands",
+        "OpenHands/OpenHands"
       ],
       "starred": true
     },
@@ -2200,6 +2313,14 @@
       "source_entries": [
         "embaya/ods",
         "Osmantic/ODS"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "pablostanley/yoinks",
+      "source_entries": [
+        "pablostanley/yoinks"
       ],
       "starred": true
     },
@@ -2303,6 +2424,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "promptfoo/promptfoo",
+      "source_entries": [
+        "promptfoo/promptfoo"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "public-apis/public-apis",
       "source_entries": [
@@ -2335,6 +2464,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "QwenLM/Qwen3-VL",
+      "source_entries": [
+        "QwenLM/Qwen3-VL"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "ravindragith/zie619",
       "source_entries": [
@@ -2352,9 +2489,25 @@
     },
     {
       "forked": false,
+      "repository": "remotion-dev/remotion",
+      "source_entries": [
+        "remotion-dev/remotion"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "repowise-dev/repowise",
       "source_entries": [
         "repowise-dev/repowise"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "resemble-ai/chatterbox",
+      "source_entries": [
+        "resemble-ai/chatterbox"
       ],
       "starred": true
     },
@@ -2381,6 +2534,14 @@
         "embaya/free-for-dev"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "riverqueue/river",
+      "source_entries": [
+        "riverqueue/river"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -2662,6 +2823,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "stanfordnlp/dspy",
+      "source_entries": [
+        "stanfordnlp/dspy"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "StarTrail-org/PixelRAG",
       "source_entries": [
@@ -2695,9 +2864,25 @@
     },
     {
       "forked": false,
+      "repository": "SYSTRAN/faster-whisper",
+      "source_entries": [
+        "SYSTRAN/faster-whisper"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask",
       "source_entries": [
         "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "temporalio/temporal",
+      "source_entries": [
+        "temporalio/temporal"
       ],
       "starred": true
     },
@@ -2843,6 +3028,14 @@
     },
     {
       "forked": false,
+      "repository": "umami-software/umami",
+      "source_entries": [
+        "umami-software/umami"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "ungoogled-software/ungoogled-chromium",
       "source_entries": [
         "ungoogled-software/ungoogled-chromium"
@@ -2917,11 +3110,27 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "video-db/call.md",
+      "source_entries": [
+        "video-db/call.md"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "virgiliojr94/book-to-skill",
       "source_entries": [
         "embaya/book-to-skill",
         "virgiliojr94/book-to-skill"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "vllm-project/vllm",
+      "source_entries": [
+        "vllm-project/vllm"
       ],
       "starred": true
     },
@@ -2946,6 +3155,22 @@
       "repository": "wailsapp/wails",
       "source_entries": [
         "wailsapp/wails"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "walkinglabs/learn-harness-engineering",
+      "source_entries": [
+        "walkinglabs/learn-harness-engineering"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Wan-Video/Wan2.2",
+      "source_entries": [
+        "Wan-Video/Wan2.2"
       ],
       "starred": true
     },
