@@ -1920,6 +1920,14 @@
     },
     {
       "forked": false,
+      "repository": "miqdadbadjuber/anti-slop",
+      "source_entries": [
+        "miqdadbadjuber/anti-slop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "mirakl/sdk-php-shop",
       "source_entries": [
         "mirakl/sdk-php-shop"
