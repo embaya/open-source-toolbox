@@ -1107,6 +1107,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "FlashML-org/FreeVideo",
+      "source_entries": [
+        "FlashML-org/FreeVideo"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "floci-io/floci",
       "source_entries": [
@@ -1760,6 +1768,14 @@
       "repository": "lnkiai/m3e-canvas",
       "source_entries": [
         "lnkiai/m3e-canvas"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "lobehub/lobehub",
+      "source_entries": [
+        "lobehub/lobehub"
       ],
       "starred": true
     },
@@ -3184,6 +3200,14 @@
     },
     {
       "forked": false,
+      "repository": "Wassimyounes01/qwen38-uncensored",
+      "source_entries": [
+        "Wassimyounes01/qwen38-uncensored"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "westpoint-io/mimik",
       "source_entries": [
         "westpoint-io/mimik"
@@ -3206,6 +3230,14 @@
         "embaya/grok-build"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "yihui-dev/awesome-opus5-5-videos",
+      "source_entries": [
+        "yihui-dev/awesome-opus5-5-videos"
+      ],
+      "starred": true
     },
     {
       "forked": true,
