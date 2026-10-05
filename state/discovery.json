@@ -167,6 +167,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "Anil-matcha/open-dots",
+      "source_entries": [
+        "Anil-matcha/open-dots"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Anil-matcha/Open-Generative-AI",
       "source_entries": [
@@ -490,6 +498,14 @@
     },
     {
       "forked": false,
+      "repository": "bytedance/deer-flow",
+      "source_entries": [
+        "bytedance/deer-flow"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "bzikarsky/gelf-php",
       "source_entries": [
         "bzikarsky/gelf-php"
@@ -777,6 +793,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "datalab-to/chandra",
+      "source_entries": [
+        "datalab-to/chandra"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "datalab-to/marker",
       "source_entries": [
@@ -968,6 +992,14 @@
       "repository": "EbookFoundation/free-programming-books",
       "source_entries": [
         "EbookFoundation/free-programming-books"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "echris6/motion-video-kit",
+      "source_entries": [
+        "echris6/motion-video-kit"
       ],
       "starred": true
     },
@@ -1896,6 +1928,14 @@
     },
     {
       "forked": false,
+      "repository": "mem0ai/mem0",
+      "source_entries": [
+        "mem0ai/mem0"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "mersile-atti/PrestaShop",
       "source_entries": [
         "mersile-atti/PrestaShop"
@@ -2011,6 +2051,14 @@
     },
     {
       "forked": false,
+      "repository": "mvschwarz/openrig",
+      "source_entries": [
+        "mvschwarz/openrig"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "mxkh/symfony-api-platform-ddd-cqrs-boilerplate",
       "source_entries": [
         "mxkh/symfony-api-platform-ddd-cqrs-boilerplate"
@@ -2030,6 +2078,14 @@
       "repository": "myshell-ai/OpenVoice",
       "source_entries": [
         "myshell-ai/OpenVoice"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "nanobrowser/nanobrowser",
+      "source_entries": [
+        "nanobrowser/nanobrowser"
       ],
       "starred": true
     },
@@ -2226,6 +2282,14 @@
     },
     {
       "forked": false,
+      "repository": "open-slide/open-slide",
+      "source_entries": [
+        "open-slide/open-slide"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "open-webui/open-webui",
       "source_entries": [
         "open-webui/open-webui"
@@ -2253,9 +2317,10 @@
       "forked": true,
       "repository": "OpenCut-app/OpenCut",
       "source_entries": [
-        "embaya/opencut"
+        "embaya/opencut",
+        "OpenCut-app/OpenCut"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
@@ -2428,6 +2493,14 @@
       "repository": "PHP-CS-Fixer/PHP-CS-Fixer",
       "source_entries": [
         "PHP-CS-Fixer/PHP-CS-Fixer"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "plannotator/effective-html",
+      "source_entries": [
+        "plannotator/effective-html"
       ],
       "starred": true
     },
@@ -2953,6 +3026,22 @@
     },
     {
       "forked": false,
+      "repository": "tigerless-labs/autoharness",
+      "source_entries": [
+        "tigerless-labs/autoharness"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "tinyhumansai/openhuman",
+      "source_entries": [
+        "tinyhumansai/openhuman"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "tldraw/tldraw",
       "source_entries": [
         "tldraw/tldraw"
@@ -3211,6 +3300,14 @@
       "repository": "westpoint-io/mimik",
       "source_entries": [
         "westpoint-io/mimik"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "wh000wh000/awesome-jev-live",
+      "source_entries": [
+        "wh000wh000/awesome-jev-live"
       ],
       "starred": true
     },
