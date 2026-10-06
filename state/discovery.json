@@ -37,6 +37,14 @@
     },
     {
       "forked": false,
+      "repository": "activepieces/activepieces",
+      "source_entries": [
+        "activepieces/activepieces"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Ademking/MD-This-Page",
       "source_entries": [
         "Ademking/MD-This-Page"
@@ -718,6 +726,14 @@
     },
     {
       "forked": false,
+      "repository": "cporter202/best-apis-for-lead-gen",
+      "source_entries": [
+        "cporter202/best-apis-for-lead-gen"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "cporter202/scraping-apis-for-devs",
       "source_entries": [
         "cporter202/scraping-apis-for-devs"
@@ -1193,6 +1209,14 @@
         "embaya/moneyprinterv2"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "genex-games/genex-desktop",
+      "source_entries": [
+        "genex-games/genex-desktop"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -2019,6 +2043,14 @@
       "repository": "Moh4696/freecut",
       "source_entries": [
         "Moh4696/freecut"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "morluto/rea",
+      "source_entries": [
+        "morluto/rea"
       ],
       "starred": true
     },
