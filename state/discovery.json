@@ -734,6 +734,14 @@
     },
     {
       "forked": false,
+      "repository": "cporter202/cheap-sora2-api",
+      "source_entries": [
+        "cporter202/cheap-sora2-api"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "cporter202/scraping-apis-for-devs",
       "source_entries": [
         "cporter202/scraping-apis-for-devs"
@@ -1900,6 +1908,14 @@
         "embaya/masterdnsvpn"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "Mastershort/neonplan3d",
+      "source_entries": [
+        "Mastershort/neonplan3d"
+      ],
+      "starred": true
     },
     {
       "forked": false,
