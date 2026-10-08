@@ -1456,6 +1456,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "Hikhakk/higgsfield-mcp-unified",
+      "source_entries": [
+        "Hikhakk/higgsfield-mcp-unified"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "HKUDS/Vibe-Trading",
       "source_entries": [
@@ -3275,6 +3283,14 @@
       "repository": "video-db/call.md",
       "source_entries": [
         "video-db/call.md"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Vincentwei1021/video-shotcraft",
+      "source_entries": [
+        "Vincentwei1021/video-shotcraft"
       ],
       "starred": true
     },
