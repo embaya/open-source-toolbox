@@ -37,6 +37,14 @@
     },
     {
       "forked": false,
+      "repository": "activepieces/activepieces",
+      "source_entries": [
+        "activepieces/activepieces"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Ademking/MD-This-Page",
       "source_entries": [
         "Ademking/MD-This-Page"
@@ -163,6 +171,14 @@
       "repository": "anhchienhoang/sf4-cqrs-es-demo",
       "source_entries": [
         "anhchienhoang/sf4-cqrs-es-demo"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Anil-matcha/open-dots",
+      "source_entries": [
+        "Anil-matcha/open-dots"
       ],
       "starred": true
     },
@@ -490,6 +506,14 @@
     },
     {
       "forked": false,
+      "repository": "bytedance/deer-flow",
+      "source_entries": [
+        "bytedance/deer-flow"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "bzikarsky/gelf-php",
       "source_entries": [
         "bzikarsky/gelf-php"
@@ -702,6 +726,22 @@
     },
     {
       "forked": false,
+      "repository": "cporter202/best-apis-for-lead-gen",
+      "source_entries": [
+        "cporter202/best-apis-for-lead-gen"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "cporter202/cheap-sora2-api",
+      "source_entries": [
+        "cporter202/cheap-sora2-api"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "cporter202/scraping-apis-for-devs",
       "source_entries": [
         "cporter202/scraping-apis-for-devs"
@@ -773,6 +813,14 @@
       "source_entries": [
         "darkzOGx/youtube-automation-agent",
         "embaya/youtube-automation-agent"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "datalab-to/chandra",
+      "source_entries": [
+        "datalab-to/chandra"
       ],
       "starred": true
     },
@@ -972,6 +1020,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "echris6/motion-video-kit",
+      "source_entries": [
+        "echris6/motion-video-kit"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Egonex-AI/Understand-Anything",
       "source_entries": [
@@ -1107,6 +1163,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "FlashML-org/FreeVideo",
+      "source_entries": [
+        "FlashML-org/FreeVideo"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "floci-io/floci",
       "source_entries": [
@@ -1153,6 +1217,14 @@
         "embaya/moneyprinterv2"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "genex-games/genex-desktop",
+      "source_entries": [
+        "genex-games/genex-desktop"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -1380,6 +1452,14 @@
       "repository": "heygen-com/hyperframes",
       "source_entries": [
         "heygen-com/hyperframes"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Hikhakk/higgsfield-mcp-unified",
+      "source_entries": [
+        "Hikhakk/higgsfield-mcp-unified"
       ],
       "starred": true
     },
@@ -1765,6 +1845,14 @@
     },
     {
       "forked": false,
+      "repository": "lobehub/lobehub",
+      "source_entries": [
+        "lobehub/lobehub"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "loft-sh/vind",
       "source_entries": [
         "loft-sh/vind"
@@ -1831,6 +1919,14 @@
     },
     {
       "forked": false,
+      "repository": "Mastershort/neonplan3d",
+      "source_entries": [
+        "Mastershort/neonplan3d"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "mattpocock/skills",
       "source_entries": [
         "mattpocock/skills"
@@ -1880,6 +1976,14 @@
     },
     {
       "forked": false,
+      "repository": "mem0ai/mem0",
+      "source_entries": [
+        "mem0ai/mem0"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "mersile-atti/PrestaShop",
       "source_entries": [
         "mersile-atti/PrestaShop"
@@ -1917,6 +2021,14 @@
         "embaya/autoskills"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "miqdadbadjuber/anti-slop",
+      "source_entries": [
+        "miqdadbadjuber/anti-slop"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -1959,6 +2071,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "morluto/rea",
+      "source_entries": [
+        "morluto/rea"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "msitarzewski/agency-agents",
       "source_entries": [
@@ -1987,6 +2107,14 @@
     },
     {
       "forked": false,
+      "repository": "mvschwarz/openrig",
+      "source_entries": [
+        "mvschwarz/openrig"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "mxkh/symfony-api-platform-ddd-cqrs-boilerplate",
       "source_entries": [
         "mxkh/symfony-api-platform-ddd-cqrs-boilerplate"
@@ -2006,6 +2134,14 @@
       "repository": "myshell-ai/OpenVoice",
       "source_entries": [
         "myshell-ai/OpenVoice"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "nanobrowser/nanobrowser",
+      "source_entries": [
+        "nanobrowser/nanobrowser"
       ],
       "starred": true
     },
@@ -2202,6 +2338,14 @@
     },
     {
       "forked": false,
+      "repository": "open-slide/open-slide",
+      "source_entries": [
+        "open-slide/open-slide"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "open-webui/open-webui",
       "source_entries": [
         "open-webui/open-webui"
@@ -2229,9 +2373,10 @@
       "forked": true,
       "repository": "OpenCut-app/OpenCut",
       "source_entries": [
-        "embaya/opencut"
+        "embaya/opencut",
+        "OpenCut-app/OpenCut"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
@@ -2404,6 +2549,14 @@
       "repository": "PHP-CS-Fixer/PHP-CS-Fixer",
       "source_entries": [
         "PHP-CS-Fixer/PHP-CS-Fixer"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "plannotator/effective-html",
+      "source_entries": [
+        "plannotator/effective-html"
       ],
       "starred": true
     },
@@ -2929,6 +3082,22 @@
     },
     {
       "forked": false,
+      "repository": "tigerless-labs/autoharness",
+      "source_entries": [
+        "tigerless-labs/autoharness"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "tinyhumansai/openhuman",
+      "source_entries": [
+        "tinyhumansai/openhuman"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "tldraw/tldraw",
       "source_entries": [
         "tldraw/tldraw"
@@ -3118,6 +3287,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "Vincentwei1021/video-shotcraft",
+      "source_entries": [
+        "Vincentwei1021/video-shotcraft"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "virgiliojr94/book-to-skill",
       "source_entries": [
@@ -3176,9 +3353,25 @@
     },
     {
       "forked": false,
+      "repository": "Wassimyounes01/qwen38-uncensored",
+      "source_entries": [
+        "Wassimyounes01/qwen38-uncensored"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "westpoint-io/mimik",
       "source_entries": [
         "westpoint-io/mimik"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "wh000wh000/awesome-jev-live",
+      "source_entries": [
+        "wh000wh000/awesome-jev-live"
       ],
       "starred": true
     },
@@ -3198,6 +3391,14 @@
         "embaya/grok-build"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "yihui-dev/awesome-opus5-5-videos",
+      "source_entries": [
+        "yihui-dev/awesome-opus5-5-videos"
+      ],
+      "starred": true
     },
     {
       "forked": true,
