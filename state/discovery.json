@@ -193,6 +193,14 @@
     },
     {
       "forked": false,
+      "repository": "Anjok07/ultimatevocalremovergui",
+      "source_entries": [
+        "Anjok07/ultimatevocalremovergui"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "anomalyco/openauth",
       "source_entries": [
         "anomalyco/openauth"
@@ -1302,6 +1310,14 @@
     },
     {
       "forked": false,
+      "repository": "GreyDGL/PentestGPT",
+      "source_entries": [
+        "GreyDGL/PentestGPT"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "grokability/snipe-it",
       "source_entries": [
         "grokability/snipe-it"
@@ -1881,6 +1897,14 @@
       "repository": "lyogavin/airllm",
       "source_entries": [
         "lyogavin/airllm"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "marc-shade/world-intel-mcp",
+      "source_entries": [
+        "marc-shade/world-intel-mcp"
       ],
       "starred": true
     },
