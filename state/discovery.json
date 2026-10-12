@@ -757,6 +757,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "cporter202/social-growth-apis-for-creators",
+      "source_entries": [
+        "cporter202/social-growth-apis-for-creators"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "cporter202/social-media-scraping-apis",
       "source_entries": [
@@ -1695,6 +1703,14 @@
     },
     {
       "forked": false,
+      "repository": "karpathy/autoresearch",
+      "source_entries": [
+        "karpathy/autoresearch"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "kastenhq/kubestr",
       "source_entries": [
         "kastenhq/kubestr"
@@ -2091,6 +2107,14 @@
       "repository": "Moh4696/freecut",
       "source_entries": [
         "Moh4696/freecut"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "mohamedabdou-ai/reel-studio",
+      "source_entries": [
+        "mohamedabdou-ai/reel-studio"
       ],
       "starred": true
     },
