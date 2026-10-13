@@ -3,6 +3,14 @@
   "owner": "embaya",
   "repositories": [
     {
+      "forked": false,
+      "repository": "0x4m4/hexstrike-ai",
+      "source_entries": [
+        "0x4m4/hexstrike-ai"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "777genius/claude-code-source-code",
       "source_entries": [
