@@ -876,6 +876,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "dequelabs/axe-core",
+      "source_entries": [
+        "dequelabs/axe-core"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "DesignPatternsPHP/DesignPatternsPHP",
       "source_entries": [
@@ -2115,6 +2123,14 @@
       "repository": "Moh4696/freecut",
       "source_entries": [
         "Moh4696/freecut"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Moh4696/open-source-vs-saas",
+      "source_entries": [
+        "Moh4696/open-source-vs-saas"
       ],
       "starred": true
     },
