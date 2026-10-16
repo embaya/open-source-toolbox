@@ -1942,6 +1942,14 @@
     },
     {
       "forked": false,
+      "repository": "makerspet/oomwoo",
+      "source_entries": [
+        "makerspet/oomwoo"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "marc-shade/world-intel-mcp",
       "source_entries": [
         "marc-shade/world-intel-mcp"
