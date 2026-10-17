@@ -2666,6 +2666,14 @@
     },
     {
       "forked": false,
+      "repository": "projectdiscovery/nuclei",
+      "source_entries": [
+        "projectdiscovery/nuclei"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "promptfoo/promptfoo",
       "source_entries": [
         "promptfoo/promptfoo"
@@ -3009,6 +3017,14 @@
     },
     {
       "forked": false,
+      "repository": "skalesapp/skales",
+      "source_entries": [
+        "skalesapp/skales"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "slimtoolkit/slim",
       "source_entries": [
         "slimtoolkit/slim"
@@ -3116,6 +3132,14 @@
       "repository": "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask",
       "source_entries": [
         "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Tejashmakwana/motionmaxxing",
+      "source_entries": [
+        "Tejashmakwana/motionmaxxing"
       ],
       "starred": true
     },
