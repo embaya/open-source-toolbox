@@ -791,6 +791,14 @@
     },
     {
       "forked": false,
+      "repository": "cporter202/software-income-playbooks",
+      "source_entries": [
+        "cporter202/software-income-playbooks"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "cravler/CravlerMaxMindGeoIpBundle",
       "source_entries": [
         "cravler/CravlerMaxMindGeoIpBundle"
@@ -3104,6 +3112,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "superdesigndev/treg",
+      "source_entries": [
+        "superdesigndev/treg"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "supertone-oss-archive/supertonic",
       "source_entries": [
@@ -3503,6 +3519,14 @@
         "embaya/grok-build"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "xtool-org/xtool",
+      "source_entries": [
+        "xtool-org/xtool"
+      ],
+      "starred": true
     },
     {
       "forked": false,
