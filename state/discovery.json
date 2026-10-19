@@ -1076,6 +1076,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "Edge0-AI/Audio8_TTS",
+      "source_entries": [
+        "Edge0-AI/Audio8_TTS"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Egonex-AI/Understand-Anything",
       "source_entries": [
@@ -1580,6 +1588,14 @@
     },
     {
       "forked": false,
+      "repository": "Human-Agent-Society/reef",
+      "source_entries": [
+        "Human-Agent-Society/reef"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "hwi/HWIOAuthBundle",
       "source_entries": [
         "hwi/HWIOAuthBundle"
@@ -1699,6 +1715,14 @@
         "embaya/free-llm-api-resources"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "jub0t/Concat",
+      "source_entries": [
+        "jub0t/Concat"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -2725,6 +2749,14 @@
       "repository": "QwenLM/Qwen3-VL",
       "source_entries": [
         "QwenLM/Qwen3-VL"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "raiyanyahya/how-to-train-your-gpt",
+      "source_entries": [
+        "raiyanyahya/how-to-train-your-gpt"
       ],
       "starred": true
     },
