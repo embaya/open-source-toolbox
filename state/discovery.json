@@ -3440,6 +3440,14 @@
     },
     {
       "forked": false,
+      "repository": "vibheksoni/stealth-browser-mcp",
+      "source_entries": [
+        "vibheksoni/stealth-browser-mcp"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "video-db/call.md",
       "source_entries": [
         "video-db/call.md"
