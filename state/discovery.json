@@ -1358,6 +1358,14 @@
     },
     {
       "forked": false,
+      "repository": "Graphify-Labs/graphify",
+      "source_entries": [
+        "Graphify-Labs/graphify"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "GreyDGL/PentestGPT",
       "source_entries": [
         "GreyDGL/PentestGPT"
@@ -1828,6 +1836,14 @@
       "repository": "kilimchoi/engineering-blogs",
       "source_entries": [
         "kilimchoi/engineering-blogs"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "KnifeLemon/Filee",
+      "source_entries": [
+        "KnifeLemon/Filee"
       ],
       "starred": true
     },
@@ -2690,6 +2706,14 @@
     },
     {
       "forked": false,
+      "repository": "plugin87/ux-ui-agent-skills",
+      "source_entries": [
+        "plugin87/ux-ui-agent-skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "PrivateBin/PrivateBin",
       "source_entries": [
         "PrivateBin/PrivateBin"
@@ -3121,6 +3145,14 @@
     },
     {
       "forked": false,
+      "repository": "stablyai/orca",
+      "source_entries": [
+        "stablyai/orca"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "stanfordnlp/dspy",
       "source_entries": [
         "stanfordnlp/dspy"
@@ -3180,6 +3212,15 @@
       "repository": "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask",
       "source_entries": [
         "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "tashfeenahmed/freellmapi",
+      "source_entries": [
+        "embaya/freellmapi",
+        "tashfeenahmed/freellmapi"
       ],
       "starred": true
     },
@@ -3295,6 +3336,14 @@
         "embaya/the-book-of-secret-knowledge"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "tt-a1i/archify",
+      "source_entries": [
+        "tt-a1i/archify"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -3486,6 +3535,14 @@
         "embaya/folio-ocr"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "vxcontrol/pentagi",
+      "source_entries": [
+        "vxcontrol/pentagi"
+      ],
+      "starred": true
     },
     {
       "forked": false,
