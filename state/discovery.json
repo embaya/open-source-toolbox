@@ -184,9 +184,9 @@
     },
     {
       "forked": false,
-      "repository": "Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
       "source_entries": [
-        "Anil-matcha/open-dots"
+        "Anil-matcha/open-duet"
       ],
       "starred": true
     },
@@ -586,12 +586,28 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "cheaper-inference/OmniRoute",
+      "source_entries": [
+        "cheaper-inference/OmniRoute"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Checkmarx/kics",
       "source_entries": [
         "embaya/kics"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "chrisgreg/boop",
+      "source_entries": [
+        "chrisgreg/boop"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -906,14 +922,6 @@
         "embaya/DesignPatternsPHP"
       ],
       "starred": false
-    },
-    {
-      "forked": false,
-      "repository": "diegosouzapw/OmniRoute",
-      "source_entries": [
-        "diegosouzapw/OmniRoute"
-      ],
-      "starred": true
     },
     {
       "forked": false,
@@ -1276,6 +1284,14 @@
     },
     {
       "forked": false,
+      "repository": "Gathin23/cleanyourtv",
+      "source_entries": [
+        "Gathin23/cleanyourtv"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "genex-games/genex-desktop",
       "source_entries": [
         "genex-games/genex-desktop"
@@ -1347,6 +1363,14 @@
         "embaya/gemini-cli"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "google/artemis",
+      "source_entries": [
+        "google/artemis"
+      ],
+      "starred": true
     },
     {
       "forked": true,
