@@ -111,6 +111,15 @@
     },
     {
       "forked": true,
+      "repository": "ai-job-search-dev/ai-job-search",
+      "source_entries": [
+        "ai-job-search-dev/ai-job-search",
+        "embaya/ai-job-search"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "AI4Finance-Foundation/FinGPT",
       "source_entries": [
         "embaya/fingpt"
@@ -752,9 +761,10 @@
       "forked": true,
       "repository": "cporter202/API-mega-list",
       "source_entries": [
+        "cporter202/API-mega-list",
         "embaya/api-mega-list"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": false,
@@ -851,9 +861,10 @@
       "forked": true,
       "repository": "D4Vinci/Scrapling",
       "source_entries": [
+        "D4Vinci/Scrapling",
         "embaya/Scrapling"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": false,
@@ -1228,6 +1239,14 @@
     },
     {
       "forked": false,
+      "repository": "firecrawl/firecrawl",
+      "source_entries": [
+        "firecrawl/firecrawl"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "FlashML-org/FreeVideo",
       "source_entries": [
         "FlashML-org/FreeVideo"
@@ -1295,6 +1314,14 @@
       "repository": "genex-games/genex-desktop",
       "source_entries": [
         "genex-games/genex-desktop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "genspark-ai/genoffice",
+      "source_entries": [
+        "genspark-ai/genoffice"
       ],
       "starred": true
     },
@@ -1684,6 +1711,14 @@
     },
     {
       "forked": false,
+      "repository": "Jakeschincariol/replica-skill",
+      "source_entries": [
+        "Jakeschincariol/replica-skill"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Jane-xiaoer/claude-skill-web-clone",
       "source_entries": [
         "Jane-xiaoer/claude-skill-web-clone"
@@ -1993,6 +2028,14 @@
       "source_entries": [
         "embaya/loopx",
         "loopx-project/loopx"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Louis-CFM/coucou",
+      "source_entries": [
+        "Louis-CFM/coucou"
       ],
       "starred": true
     },
@@ -3012,6 +3055,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "shadcn-ui/chatbot-template",
+      "source_entries": [
+        "shadcn-ui/chatbot-template"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "ShadowHackrs/Gmail-infinity",
       "source_entries": [
@@ -3043,14 +3094,6 @@
         "embaya/hidden-entity-type-bundle"
       ],
       "starred": false
-    },
-    {
-      "forked": false,
-      "repository": "shiaho777/web-to-app",
-      "source_entries": [
-        "shiaho777/web-to-app"
-      ],
-      "starred": true
     },
     {
       "forked": false,
@@ -3508,6 +3551,14 @@
       "repository": "vectorize-io/hindsight",
       "source_entries": [
         "vectorize-io/hindsight"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "vercel-labs/skills",
+      "source_entries": [
+        "vercel-labs/skills"
       ],
       "starred": true
     },
