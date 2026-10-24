@@ -111,6 +111,15 @@
     },
     {
       "forked": true,
+      "repository": "ai-job-search-dev/ai-job-search",
+      "source_entries": [
+        "ai-job-search-dev/ai-job-search",
+        "embaya/ai-job-search"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "AI4Finance-Foundation/FinGPT",
       "source_entries": [
         "embaya/fingpt"
@@ -184,9 +193,9 @@
     },
     {
       "forked": false,
-      "repository": "Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
       "source_entries": [
-        "Anil-matcha/open-dots"
+        "Anil-matcha/open-duet"
       ],
       "starred": true
     },
@@ -586,12 +595,28 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "cheaper-inference/OmniRoute",
+      "source_entries": [
+        "cheaper-inference/OmniRoute"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Checkmarx/kics",
       "source_entries": [
         "embaya/kics"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "chrisgreg/boop",
+      "source_entries": [
+        "chrisgreg/boop"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -736,9 +761,10 @@
       "forked": true,
       "repository": "cporter202/API-mega-list",
       "source_entries": [
+        "cporter202/API-mega-list",
         "embaya/api-mega-list"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": false,
@@ -835,9 +861,10 @@
       "forked": true,
       "repository": "D4Vinci/Scrapling",
       "source_entries": [
+        "D4Vinci/Scrapling",
         "embaya/Scrapling"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": false,
@@ -906,14 +933,6 @@
         "embaya/DesignPatternsPHP"
       ],
       "starred": false
-    },
-    {
-      "forked": false,
-      "repository": "diegosouzapw/OmniRoute",
-      "source_entries": [
-        "diegosouzapw/OmniRoute"
-      ],
-      "starred": true
     },
     {
       "forked": false,
@@ -1220,6 +1239,14 @@
     },
     {
       "forked": false,
+      "repository": "firecrawl/firecrawl",
+      "source_entries": [
+        "firecrawl/firecrawl"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "FlashML-org/FreeVideo",
       "source_entries": [
         "FlashML-org/FreeVideo"
@@ -1276,9 +1303,25 @@
     },
     {
       "forked": false,
+      "repository": "Gathin23/cleanyourtv",
+      "source_entries": [
+        "Gathin23/cleanyourtv"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "genex-games/genex-desktop",
       "source_entries": [
         "genex-games/genex-desktop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "genspark-ai/genoffice",
+      "source_entries": [
+        "genspark-ai/genoffice"
       ],
       "starred": true
     },
@@ -1349,12 +1392,28 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "google/artemis",
+      "source_entries": [
+        "google/artemis"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "googleapis/go-genai",
       "source_entries": [
         "embaya/go-genai"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "Graphify-Labs/graphify",
+      "source_entries": [
+        "Graphify-Labs/graphify"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -1652,6 +1711,14 @@
     },
     {
       "forked": false,
+      "repository": "Jakeschincariol/replica-skill",
+      "source_entries": [
+        "Jakeschincariol/replica-skill"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Jane-xiaoer/claude-skill-web-clone",
       "source_entries": [
         "Jane-xiaoer/claude-skill-web-clone"
@@ -1832,6 +1899,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "KnifeLemon/Filee",
+      "source_entries": [
+        "KnifeLemon/Filee"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "kodekloudhub/certified-kubernetes-administrator-course",
       "source_entries": [
@@ -1953,6 +2028,14 @@
       "source_entries": [
         "embaya/loopx",
         "loopx-project/loopx"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Louis-CFM/coucou",
+      "source_entries": [
+        "Louis-CFM/coucou"
       ],
       "starred": true
     },
@@ -2690,6 +2773,14 @@
     },
     {
       "forked": false,
+      "repository": "plugin87/ux-ui-agent-skills",
+      "source_entries": [
+        "plugin87/ux-ui-agent-skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "PrivateBin/PrivateBin",
       "source_entries": [
         "PrivateBin/PrivateBin"
@@ -2964,6 +3055,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "shadcn-ui/chatbot-template",
+      "source_entries": [
+        "shadcn-ui/chatbot-template"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "ShadowHackrs/Gmail-infinity",
       "source_entries": [
@@ -3121,6 +3220,14 @@
     },
     {
       "forked": false,
+      "repository": "stablyai/orca",
+      "source_entries": [
+        "stablyai/orca"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "stanfordnlp/dspy",
       "source_entries": [
         "stanfordnlp/dspy"
@@ -3180,6 +3287,15 @@
       "repository": "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask",
       "source_entries": [
         "TareqAlKushari/Object-Detection-With-PyTorch-and-Custom-the-Model-By-Flask"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "tashfeenahmed/freellmapi",
+      "source_entries": [
+        "embaya/freellmapi",
+        "tashfeenahmed/freellmapi"
       ],
       "starred": true
     },
@@ -3295,6 +3411,14 @@
         "embaya/the-book-of-secret-knowledge"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "tt-a1i/archify",
+      "source_entries": [
+        "tt-a1i/archify"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -3440,6 +3564,14 @@
     },
     {
       "forked": false,
+      "repository": "vercel-labs/skills",
+      "source_entries": [
+        "vercel-labs/skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "vibheksoni/stealth-browser-mcp",
       "source_entries": [
         "vibheksoni/stealth-browser-mcp"
@@ -3486,6 +3618,14 @@
         "embaya/folio-ocr"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "vxcontrol/pentagi",
+      "source_entries": [
+        "vxcontrol/pentagi"
+      ],
+      "starred": true
     },
     {
       "forked": false,
