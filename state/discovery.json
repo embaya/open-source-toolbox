@@ -127,6 +127,14 @@
       "starred": false
     },
     {
+      "forked": true,
+      "repository": "Alaa-Taieb/map-tunisia",
+      "source_entries": [
+        "embaya/map-tunisia"
+      ],
+      "starred": false
+    },
+    {
       "forked": false,
       "repository": "alamshafil/auto-shorts",
       "source_entries": [
@@ -1221,6 +1229,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "fikrikarim/parlor",
+      "source_entries": [
+        "fikrikarim/parlor"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Fincept-Corporation/FinceptTerminal",
       "source_entries": [
@@ -2190,6 +2206,14 @@
       "repository": "microsoft/AI-For-Beginners",
       "source_entries": [
         "microsoft/AI-For-Beginners"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "microsoft/skill-recorder",
+      "source_entries": [
+        "microsoft/skill-recorder"
       ],
       "starred": true
     },
