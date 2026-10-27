@@ -750,6 +750,14 @@
     },
     {
       "forked": false,
+      "repository": "cosmicstack-labs/mercury-agent",
+      "source_entries": [
+        "cosmicstack-labs/mercury-agent"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "cporter202/agentic-ai-apis",
       "source_entries": [
         "cporter202/agentic-ai-apis"
@@ -1604,6 +1612,15 @@
     },
     {
       "forked": true,
+      "repository": "HKUDS/DeepTutor",
+      "source_entries": [
+        "embaya/DeepTutor",
+        "HKUDS/DeepTutor"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
       "repository": "HKUDS/Vibe-Trading",
       "source_entries": [
         "embaya/vibe-trading"
@@ -2315,6 +2332,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "mudler/LocalAI",
+      "source_entries": [
+        "mudler/LocalAI"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "multica-ai/andrej-karpathy-skills",
       "source_entries": [
@@ -2635,6 +2660,15 @@
       "repository": "openobserve/openobserve",
       "source_entries": [
         "openobserve/openobserve"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "openops-cloud/openops",
+      "source_entries": [
+        "embaya/openops",
+        "openops-cloud/openops"
       ],
       "starred": true
     },
