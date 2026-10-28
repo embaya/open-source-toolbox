@@ -127,6 +127,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "aicodeking/leanrea",
+      "source_entries": [
+        "aicodeking/leanrea"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Alaa-Taieb/map-tunisia",
       "source_entries": [
@@ -537,6 +545,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "browser-use/jev-ultrafast",
+      "source_entries": [
+        "browser-use/jev-ultrafast"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "browser-use/video-use",
       "source_entries": [
@@ -745,6 +761,14 @@
       "repository": "ComposioHQ/awesome-claude-skills",
       "source_entries": [
         "ComposioHQ/awesome-claude-skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "CopilotKit/openmuse",
+      "source_entries": [
+        "CopilotKit/openmuse"
       ],
       "starred": true
     },
@@ -2978,6 +3002,14 @@
       "repository": "riverqueue/river",
       "source_entries": [
         "riverqueue/river"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "rlaope/oh-my-hermes",
+      "source_entries": [
+        "rlaope/oh-my-hermes"
       ],
       "starred": true
     },
