@@ -1792,6 +1792,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "jaredpalmer/kev",
+      "source_entries": [
+        "jaredpalmer/kev"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "jbrunton/gflows",
       "source_entries": [
@@ -2110,6 +2118,14 @@
       "repository": "louislam/uptime-kuma",
       "source_entries": [
         "louislam/uptime-kuma"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "luongnv89/claude-howto",
+      "source_entries": [
+        "luongnv89/claude-howto"
       ],
       "starred": true
     },
