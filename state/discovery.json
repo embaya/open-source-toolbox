@@ -22,9 +22,10 @@
       "forked": true,
       "repository": "aaif-goose/goose",
       "source_entries": [
+        "aaif-goose/goose",
         "embaya/goose"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
@@ -2253,6 +2254,14 @@
     },
     {
       "forked": false,
+      "repository": "MemPalace/mempalace",
+      "source_entries": [
+        "MemPalace/mempalace"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "mersile-atti/PrestaShop",
       "source_entries": [
         "mersile-atti/PrestaShop"
@@ -2809,6 +2818,14 @@
       "source_entries": [
         "embaya/agent-reach",
         "Panniantong/Agent-Reach"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "paperclipai/paperclip",
+      "source_entries": [
+        "paperclipai/paperclip"
       ],
       "starred": true
     },
