@@ -22,9 +22,10 @@
       "forked": true,
       "repository": "aaif-goose/goose",
       "source_entries": [
+        "aaif-goose/goose",
         "embaya/goose"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
@@ -610,6 +611,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "cbrock84/headcount",
+      "source_entries": [
+        "cbrock84/headcount"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "charlie947/social-media-skills",
       "source_entries": [
@@ -622,7 +631,8 @@
       "forked": false,
       "repository": "cheaper-inference/OmniRoute",
       "source_entries": [
-        "cheaper-inference/OmniRoute"
+        "cheaper-inference/OmniRoute",
+        "ChrisCompton/omniroute"
       ],
       "starred": true
     },
@@ -785,6 +795,14 @@
       "repository": "cporter202/agentic-ai-apis",
       "source_entries": [
         "cporter202/agentic-ai-apis"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "cporter202/ai-agent-data-apis",
+      "source_entries": [
+        "cporter202/ai-agent-data-apis"
       ],
       "starred": true
     },
@@ -1225,14 +1243,6 @@
       "source_entries": [
         "embaya/prompts.chat",
         "f/prompts.chat"
-      ],
-      "starred": true
-    },
-    {
-      "forked": false,
-      "repository": "facebook/astryx",
-      "source_entries": [
-        "facebook/astryx"
       ],
       "starred": true
     },
@@ -1783,6 +1793,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "jaredpalmer/kev",
+      "source_entries": [
+        "jaredpalmer/kev"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "jbrunton/gflows",
       "source_entries": [
@@ -2106,6 +2124,14 @@
     },
     {
       "forked": false,
+      "repository": "luongnv89/claude-howto",
+      "source_entries": [
+        "luongnv89/claude-howto"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "lyogavin/airllm",
       "source_entries": [
         "lyogavin/airllm"
@@ -2228,9 +2254,25 @@
     },
     {
       "forked": false,
+      "repository": "MemPalace/mempalace",
+      "source_entries": [
+        "MemPalace/mempalace"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "mersile-atti/PrestaShop",
       "source_entries": [
         "mersile-atti/PrestaShop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "meta/astryx",
+      "source_entries": [
+        "meta/astryx"
       ],
       "starred": true
     },
@@ -2776,6 +2818,14 @@
       "source_entries": [
         "embaya/agent-reach",
         "Panniantong/Agent-Reach"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "paperclipai/paperclip",
+      "source_entries": [
+        "paperclipai/paperclip"
       ],
       "starred": true
     },
@@ -3390,6 +3440,15 @@
       "starred": true
     },
     {
+      "forked": true,
+      "repository": "TauricResearch/TradingAgents",
+      "source_entries": [
+        "embaya/tradingagents",
+        "TauricResearch/TradingAgents"
+      ],
+      "starred": true
+    },
+    {
       "forked": false,
       "repository": "Tejashmakwana/motionmaxxing",
       "source_entries": [
@@ -3657,6 +3716,14 @@
       "repository": "vercel-labs/skills",
       "source_entries": [
         "vercel-labs/skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "VERT-sh/VERT",
+      "source_entries": [
+        "VERT-sh/VERT"
       ],
       "starred": true
     },
