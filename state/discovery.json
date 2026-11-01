@@ -1161,6 +1161,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "Edge0-AI/Edge0",
+      "source_entries": [
+        "Edge0-AI/Edge0"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Egonex-AI/Understand-Anything",
       "source_entries": [
@@ -1767,6 +1775,14 @@
         "embaya/actions"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "ItzCrazyKns/Vane",
+      "source_entries": [
+        "ItzCrazyKns/Vane"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -3352,6 +3368,14 @@
     },
     {
       "forked": false,
+      "repository": "soumatheusgomes/editonny",
+      "source_entries": [
+        "soumatheusgomes/editonny"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "spotify/portal-ai-plugins",
       "source_entries": [
         "spotify/portal-ai-plugins"
@@ -3676,6 +3700,14 @@
       "repository": "usestrix/strix",
       "source_entries": [
         "usestrix/strix"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "vaibhavpandeyvpz/apkstudio",
+      "source_entries": [
+        "vaibhavpandeyvpz/apkstudio"
       ],
       "starred": true
     },
