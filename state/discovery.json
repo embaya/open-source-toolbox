@@ -598,9 +598,10 @@
       "forked": true,
       "repository": "calesthio/OpenMontage",
       "source_entries": [
+        "calesthio/OpenMontage",
         "embaya/openmontage"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
@@ -1462,6 +1463,14 @@
       "repository": "google/artemis",
       "source_entries": [
         "google/artemis"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "google/elephant-goldfish-model",
+      "source_entries": [
+        "google/elephant-goldfish-model"
       ],
       "starred": true
     },
