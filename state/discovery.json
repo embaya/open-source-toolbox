@@ -22,9 +22,10 @@
       "forked": true,
       "repository": "aaif-goose/goose",
       "source_entries": [
+        "aaif-goose/goose",
         "embaya/goose"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
@@ -597,9 +598,10 @@
       "forked": true,
       "repository": "calesthio/OpenMontage",
       "source_entries": [
+        "calesthio/OpenMontage",
         "embaya/openmontage"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
@@ -608,6 +610,14 @@
         "embaya/mainecoon"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "cbrock84/headcount",
+      "source_entries": [
+        "cbrock84/headcount"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -622,7 +632,8 @@
       "forked": false,
       "repository": "cheaper-inference/OmniRoute",
       "source_entries": [
-        "cheaper-inference/OmniRoute"
+        "cheaper-inference/OmniRoute",
+        "ChrisCompton/omniroute"
       ],
       "starred": true
     },
@@ -785,6 +796,14 @@
       "repository": "cporter202/agentic-ai-apis",
       "source_entries": [
         "cporter202/agentic-ai-apis"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "cporter202/ai-agent-data-apis",
+      "source_entries": [
+        "cporter202/ai-agent-data-apis"
       ],
       "starred": true
     },
@@ -1143,6 +1162,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "Edge0-AI/Edge0",
+      "source_entries": [
+        "Edge0-AI/Edge0"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "Egonex-AI/Understand-Anything",
       "source_entries": [
@@ -1225,14 +1252,6 @@
       "source_entries": [
         "embaya/prompts.chat",
         "f/prompts.chat"
-      ],
-      "starred": true
-    },
-    {
-      "forked": false,
-      "repository": "facebook/astryx",
-      "source_entries": [
-        "facebook/astryx"
       ],
       "starred": true
     },
@@ -1444,6 +1463,14 @@
       "repository": "google/artemis",
       "source_entries": [
         "google/artemis"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "google/elephant-goldfish-model",
+      "source_entries": [
+        "google/elephant-goldfish-model"
       ],
       "starred": true
     },
@@ -1759,6 +1786,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "ItzCrazyKns/Vane",
+      "source_entries": [
+        "ItzCrazyKns/Vane"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "j3ssie/metabigor",
       "source_entries": [
@@ -1779,6 +1814,14 @@
       "repository": "Jane-xiaoer/claude-skill-web-clone",
       "source_entries": [
         "Jane-xiaoer/claude-skill-web-clone"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "jaredpalmer/kev",
+      "source_entries": [
+        "jaredpalmer/kev"
       ],
       "starred": true
     },
@@ -2106,6 +2149,14 @@
     },
     {
       "forked": false,
+      "repository": "luongnv89/claude-howto",
+      "source_entries": [
+        "luongnv89/claude-howto"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "lyogavin/airllm",
       "source_entries": [
         "lyogavin/airllm"
@@ -2228,9 +2279,25 @@
     },
     {
       "forked": false,
+      "repository": "MemPalace/mempalace",
+      "source_entries": [
+        "MemPalace/mempalace"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "mersile-atti/PrestaShop",
       "source_entries": [
         "mersile-atti/PrestaShop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "meta/astryx",
+      "source_entries": [
+        "meta/astryx"
       ],
       "starred": true
     },
@@ -2781,6 +2848,14 @@
     },
     {
       "forked": false,
+      "repository": "paperclipai/paperclip",
+      "source_entries": [
+        "paperclipai/paperclip"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "papermark/papermark",
       "source_entries": [
         "papermark/papermark"
@@ -3302,6 +3377,14 @@
     },
     {
       "forked": false,
+      "repository": "soumatheusgomes/editonny",
+      "source_entries": [
+        "soumatheusgomes/editonny"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "spotify/portal-ai-plugins",
       "source_entries": [
         "spotify/portal-ai-plugins"
@@ -3386,6 +3469,15 @@
       "source_entries": [
         "embaya/freellmapi",
         "tashfeenahmed/freellmapi"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "TauricResearch/TradingAgents",
+      "source_entries": [
+        "embaya/tradingagents",
+        "TauricResearch/TradingAgents"
       ],
       "starred": true
     },
@@ -3622,6 +3714,14 @@
     },
     {
       "forked": false,
+      "repository": "vaibhavpandeyvpz/apkstudio",
+      "source_entries": [
+        "vaibhavpandeyvpz/apkstudio"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "vantage-sh/ec2instances.info",
       "source_entries": [
         "vantage-sh/ec2instances.info"
@@ -3657,6 +3757,14 @@
       "repository": "vercel-labs/skills",
       "source_entries": [
         "vercel-labs/skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "VERT-sh/VERT",
+      "source_entries": [
+        "VERT-sh/VERT"
       ],
       "starred": true
     },
