@@ -2043,6 +2043,14 @@
     },
     {
       "forked": false,
+      "repository": "langflow-ai/langflow",
+      "source_entries": [
+        "langflow-ai/langflow"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "langfuse/langfuse",
       "source_entries": [
         "langfuse/langfuse"
@@ -2764,6 +2772,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "OpenSelena/omniget",
+      "source_entries": [
+        "OpenSelena/omniget"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "openswarm-ai/openswarm",
       "source_entries": [
@@ -3414,6 +3430,15 @@
         "embaya/pixelrag"
       ],
       "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "storytold/craft-anything",
+      "source_entries": [
+        "embaya/craft-anything",
+        "storytold/craft-anything"
+      ],
+      "starred": true
     },
     {
       "forked": false,
