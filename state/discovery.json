@@ -612,14 +612,6 @@
       "starred": false
     },
     {
-      "forked": false,
-      "repository": "cbrock84/headcount",
-      "source_entries": [
-        "cbrock84/headcount"
-      ],
-      "starred": true
-    },
-    {
       "forked": true,
       "repository": "charlie947/social-media-skills",
       "source_entries": [
@@ -1814,6 +1806,14 @@
       "repository": "Jane-xiaoer/claude-skill-web-clone",
       "source_entries": [
         "Jane-xiaoer/claude-skill-web-clone"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "janhq/jan",
+      "source_entries": [
+        "janhq/jan"
       ],
       "starred": true
     },
