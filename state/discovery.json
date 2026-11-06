@@ -377,6 +377,14 @@
     },
     {
       "forked": false,
+      "repository": "aws-samples/sample-aws-genai-ops-demos",
+      "source_entries": [
+        "aws-samples/sample-aws-genai-ops-demos"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "aws-samples/serverless-snippets",
       "source_entries": [
         "aws-samples/serverless-snippets"
@@ -404,6 +412,14 @@
       "repository": "aws/aws-sdk-php-symfony",
       "source_entries": [
         "aws/aws-sdk-php-symfony"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "aws/tools-for-devops-agent",
+      "source_entries": [
+        "aws/tools-for-devops-agent"
       ],
       "starred": true
     },
@@ -610,14 +626,6 @@
         "embaya/mainecoon"
       ],
       "starred": false
-    },
-    {
-      "forked": false,
-      "repository": "cbrock84/headcount",
-      "source_entries": [
-        "cbrock84/headcount"
-      ],
-      "starred": true
     },
     {
       "forked": true,
@@ -1126,6 +1134,14 @@
       "repository": "Dpro-at/Tel-Agent",
       "source_entries": [
         "Dpro-at/Tel-Agent"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "drumih/turbo-fieldfare",
+      "source_entries": [
+        "drumih/turbo-fieldfare"
       ],
       "starred": true
     },
@@ -1819,6 +1835,14 @@
     },
     {
       "forked": false,
+      "repository": "janhq/jan",
+      "source_entries": [
+        "janhq/jan"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "jaredpalmer/kev",
       "source_entries": [
         "jaredpalmer/kev"
@@ -2038,6 +2062,14 @@
       "repository": "kvcache-ai/ktransformers",
       "source_entries": [
         "kvcache-ai/ktransformers"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "langflow-ai/langflow",
+      "source_entries": [
+        "langflow-ai/langflow"
       ],
       "starred": true
     },
@@ -2764,6 +2796,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "OpenSelena/omniget",
+      "source_entries": [
+        "OpenSelena/omniget"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "openswarm-ai/openswarm",
       "source_entries": [
@@ -3345,6 +3385,14 @@
     },
     {
       "forked": false,
+      "repository": "smithjohn78390/tongjiang-lab",
+      "source_entries": [
+        "smithjohn78390/tongjiang-lab"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "snail007/goproxy",
       "source_entries": [
         "snail007/goproxy"
@@ -3414,6 +3462,15 @@
         "embaya/pixelrag"
       ],
       "starred": false
+    },
+    {
+      "forked": true,
+      "repository": "storytold/craft-anything",
+      "source_entries": [
+        "embaya/craft-anything",
+        "storytold/craft-anything"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -3928,6 +3985,14 @@
       "source_entries": [
         "embaya/meetily",
         "Zackriya-Solutions/meetily"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "zed-industries/zed",
+      "source_entries": [
+        "zed-industries/zed"
       ],
       "starred": true
     },
