@@ -377,6 +377,14 @@
     },
     {
       "forked": false,
+      "repository": "aws-samples/sample-aws-genai-ops-demos",
+      "source_entries": [
+        "aws-samples/sample-aws-genai-ops-demos"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "aws-samples/serverless-snippets",
       "source_entries": [
         "aws-samples/serverless-snippets"
@@ -404,6 +412,14 @@
       "repository": "aws/aws-sdk-php-symfony",
       "source_entries": [
         "aws/aws-sdk-php-symfony"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "aws/tools-for-devops-agent",
+      "source_entries": [
+        "aws/tools-for-devops-agent"
       ],
       "starred": true
     },
@@ -1118,6 +1134,14 @@
       "repository": "Dpro-at/Tel-Agent",
       "source_entries": [
         "Dpro-at/Tel-Agent"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "drumih/turbo-fieldfare",
+      "source_entries": [
+        "drumih/turbo-fieldfare"
       ],
       "starred": true
     },
@@ -3361,6 +3385,14 @@
     },
     {
       "forked": false,
+      "repository": "smithjohn78390/tongjiang-lab",
+      "source_entries": [
+        "smithjohn78390/tongjiang-lab"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "snail007/goproxy",
       "source_entries": [
         "snail007/goproxy"
@@ -3953,6 +3985,14 @@
       "source_entries": [
         "embaya/meetily",
         "Zackriya-Solutions/meetily"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "zed-industries/zed",
+      "source_entries": [
+        "zed-industries/zed"
       ],
       "starred": true
     },
