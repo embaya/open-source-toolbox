@@ -1663,6 +1663,14 @@
     },
     {
       "forked": false,
+      "repository": "heydamir/unslop",
+      "source_entries": [
+        "heydamir/unslop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "heygen-com/hyperframes",
       "source_entries": [
         "heygen-com/hyperframes"
@@ -3954,6 +3962,14 @@
         "embaya/grok-build"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "xming521/WeClone",
+      "source_entries": [
+        "xming521/WeClone"
+      ],
+      "starred": true
     },
     {
       "forked": false,
