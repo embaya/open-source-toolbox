@@ -457,6 +457,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "bangtutorial/bang-motion",
+      "source_entries": [
+        "bangtutorial/bang-motion"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "bastienwirtz/homer",
       "source_entries": [
@@ -547,6 +555,14 @@
     },
     {
       "forked": false,
+      "repository": "boffti/starwire",
+      "source_entries": [
+        "boffti/starwire"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "BoltzmannEntropy/MimikaStudio",
       "source_entries": [
         "BoltzmannEntropy/MimikaStudio"
@@ -606,16 +622,8 @@
       "forked": true,
       "repository": "calcom/cal.diy",
       "source_entries": [
+        "calcom/cal.diy",
         "embaya/cal.diy"
-      ],
-      "starred": false
-    },
-    {
-      "forked": true,
-      "repository": "calesthio/OpenMontage",
-      "source_entries": [
-        "calesthio/OpenMontage",
-        "embaya/openmontage"
       ],
       "starred": true
     },
@@ -1418,6 +1426,14 @@
     },
     {
       "forked": false,
+      "repository": "getopenscreen/openscreen",
+      "source_entries": [
+        "getopenscreen/openscreen"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "getplumber/plumber",
       "source_entries": [
         "getplumber/plumber"
@@ -1698,9 +1714,10 @@
       "forked": true,
       "repository": "HKUDS/Vibe-Trading",
       "source_entries": [
-        "embaya/vibe-trading"
+        "embaya/vibe-trading",
+        "HKUDS/Vibe-Trading"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
@@ -2783,6 +2800,15 @@
       "source_entries": [
         "embaya/OpenHands",
         "OpenHands/OpenHands"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "OpenMontageInc/OpenMontage",
+      "source_entries": [
+        "embaya/openmontage",
+        "OpenMontageInc/OpenMontage"
       ],
       "starred": true
     },
