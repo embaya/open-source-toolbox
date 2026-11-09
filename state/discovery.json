@@ -317,6 +317,14 @@
     },
     {
       "forked": false,
+      "repository": "ArcReel/ArcReel",
+      "source_entries": [
+        "ArcReel/ArcReel"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "ArduPilot/ardupilot",
       "source_entries": [
         "ArduPilot/ardupilot"
@@ -1942,6 +1950,14 @@
     },
     {
       "forked": false,
+      "repository": "JuneYaooo/rea-video",
+      "source_entries": [
+        "JuneYaooo/rea-video"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "jzjzzzzzzz/agent-me",
       "source_entries": [
         "jzjzzzzzzz/agent-me"
@@ -3336,6 +3352,14 @@
     },
     {
       "forked": false,
+      "repository": "sharpdeveye/maestro",
+      "source_entries": [
+        "sharpdeveye/maestro"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "shiaho777/web-to-app",
       "source_entries": [
         "shiaho777/web-to-app"
@@ -3414,14 +3438,6 @@
       "repository": "slvDev/esp32-ai",
       "source_entries": [
         "slvDev/esp32-ai"
-      ],
-      "starred": true
-    },
-    {
-      "forked": false,
-      "repository": "smithjohn78390/tongjiang-lab",
-      "source_entries": [
-        "smithjohn78390/tongjiang-lab"
       ],
       "starred": true
     },
