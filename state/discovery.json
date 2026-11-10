@@ -209,19 +209,19 @@
       "starred": true
     },
     {
-      "forked": false,
-      "repository": "Anil-matcha/open-duet",
-      "source_entries": [
-        "Anil-matcha/open-duet"
-      ],
-      "starred": true
-    },
-    {
       "forked": true,
       "repository": "Anil-matcha/Open-Generative-AI",
       "source_entries": [
         "Anil-matcha/Open-Generative-AI",
         "embaya/Open-Generative-AI"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Anil-matcha/suparagent",
+      "source_entries": [
+        "Anil-matcha/suparagent"
       ],
       "starred": true
     },
@@ -607,6 +607,14 @@
       "repository": "bytedance/deer-flow",
       "source_entries": [
         "bytedance/deer-flow"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "bytedance/UI-TARS-desktop",
+      "source_entries": [
+        "bytedance/UI-TARS-desktop"
       ],
       "starred": true
     },
@@ -2988,6 +2996,14 @@
     },
     {
       "forked": false,
+      "repository": "phone-harness/mcp",
+      "source_entries": [
+        "phone-harness/mcp"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "phonomenal/DemoDay-Actions-CD",
       "source_entries": [
         "phonomenal/DemoDay-Actions-CD"
@@ -3687,6 +3703,14 @@
     },
     {
       "forked": false,
+      "repository": "torlando-tech/columba",
+      "source_entries": [
+        "torlando-tech/columba"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "totec448-spec/chat-on-steroids",
       "source_entries": [
         "totec448-spec/chat-on-steroids"
@@ -4087,6 +4111,14 @@
         "embaya/n8n-workflows"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "zonetecde/QuranCaption",
+      "source_entries": [
+        "zonetecde/QuranCaption"
+      ],
+      "starred": true
     },
     {
       "forked": true,
