@@ -209,19 +209,19 @@
       "starred": true
     },
     {
-      "forked": false,
-      "repository": "Anil-matcha/open-duet",
-      "source_entries": [
-        "Anil-matcha/open-duet"
-      ],
-      "starred": true
-    },
-    {
       "forked": true,
       "repository": "Anil-matcha/Open-Generative-AI",
       "source_entries": [
         "Anil-matcha/Open-Generative-AI",
         "embaya/Open-Generative-AI"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Anil-matcha/suparagent",
+      "source_entries": [
+        "Anil-matcha/suparagent"
       ],
       "starred": true
     },
@@ -314,6 +314,14 @@
         "embaya/odysseus"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "ArcReel/ArcReel",
+      "source_entries": [
+        "ArcReel/ArcReel"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -457,6 +465,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "bangtutorial/bang-motion",
+      "source_entries": [
+        "bangtutorial/bang-motion"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "bastienwirtz/homer",
       "source_entries": [
@@ -547,6 +563,14 @@
     },
     {
       "forked": false,
+      "repository": "boffti/starwire",
+      "source_entries": [
+        "boffti/starwire"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "BoltzmannEntropy/MimikaStudio",
       "source_entries": [
         "BoltzmannEntropy/MimikaStudio"
@@ -588,6 +612,14 @@
     },
     {
       "forked": false,
+      "repository": "bytedance/UI-TARS-desktop",
+      "source_entries": [
+        "bytedance/UI-TARS-desktop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "bzikarsky/gelf-php",
       "source_entries": [
         "bzikarsky/gelf-php"
@@ -606,16 +638,8 @@
       "forked": true,
       "repository": "calcom/cal.diy",
       "source_entries": [
+        "calcom/cal.diy",
         "embaya/cal.diy"
-      ],
-      "starred": false
-    },
-    {
-      "forked": true,
-      "repository": "calesthio/OpenMontage",
-      "source_entries": [
-        "calesthio/OpenMontage",
-        "embaya/openmontage"
       ],
       "starred": true
     },
@@ -1418,6 +1442,14 @@
     },
     {
       "forked": false,
+      "repository": "getopenscreen/openscreen",
+      "source_entries": [
+        "getopenscreen/openscreen"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "getplumber/plumber",
       "source_entries": [
         "getplumber/plumber"
@@ -1663,6 +1695,14 @@
     },
     {
       "forked": false,
+      "repository": "heydamir/unslop",
+      "source_entries": [
+        "heydamir/unslop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "heygen-com/hyperframes",
       "source_entries": [
         "heygen-com/hyperframes"
@@ -1690,9 +1730,10 @@
       "forked": true,
       "repository": "HKUDS/Vibe-Trading",
       "source_entries": [
-        "embaya/vibe-trading"
+        "embaya/vibe-trading",
+        "HKUDS/Vibe-Trading"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": true,
@@ -1912,6 +1953,14 @@
       "repository": "jub0t/Concat",
       "source_entries": [
         "jub0t/Concat"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "JuneYaooo/rea-video",
+      "source_entries": [
+        "JuneYaooo/rea-video"
       ],
       "starred": true
     },
@@ -2649,6 +2698,14 @@
     },
     {
       "forked": false,
+      "repository": "october-dev/car-use",
+      "source_entries": [
+        "october-dev/car-use"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "odysseus-dev/odysseus",
       "source_entries": [
         "odysseus-dev/odysseus"
@@ -2775,6 +2832,15 @@
       "source_entries": [
         "embaya/OpenHands",
         "OpenHands/OpenHands"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "OpenMontageInc/OpenMontage",
+      "source_entries": [
+        "embaya/openmontage",
+        "OpenMontageInc/OpenMontage"
       ],
       "starred": true
     },
@@ -2933,6 +2999,14 @@
       "repository": "penpot/penpot",
       "source_entries": [
         "penpot/penpot"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "phone-harness/mcp",
+      "source_entries": [
+        "phone-harness/mcp"
       ],
       "starred": true
     },
@@ -3302,9 +3376,25 @@
     },
     {
       "forked": false,
+      "repository": "sharpdeveye/maestro",
+      "source_entries": [
+        "sharpdeveye/maestro"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "shiaho777/web-to-app",
       "source_entries": [
         "shiaho777/web-to-app"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "shinyobjectz/raea",
+      "source_entries": [
+        "shinyobjectz/raea"
       ],
       "starred": true
     },
@@ -3380,14 +3470,6 @@
       "repository": "slvDev/esp32-ai",
       "source_entries": [
         "slvDev/esp32-ai"
-      ],
-      "starred": true
-    },
-    {
-      "forked": false,
-      "repository": "smithjohn78390/tongjiang-lab",
-      "source_entries": [
-        "smithjohn78390/tongjiang-lab"
       ],
       "starred": true
     },
@@ -3632,6 +3714,14 @@
       "repository": "topoteretes/cognee",
       "source_entries": [
         "topoteretes/cognee"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "torlando-tech/columba",
+      "source_entries": [
+        "torlando-tech/columba"
       ],
       "starred": true
     },
@@ -3957,6 +4047,14 @@
     },
     {
       "forked": false,
+      "repository": "xming521/WeClone",
+      "source_entries": [
+        "xming521/WeClone"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "xtool-org/xtool",
       "source_entries": [
         "xtool-org/xtool"
@@ -4029,6 +4127,14 @@
         "embaya/n8n-workflows"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "zonetecde/QuranCaption",
+      "source_entries": [
+        "zonetecde/QuranCaption"
+      ],
+      "starred": true
     },
     {
       "forked": true,
