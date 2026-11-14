@@ -809,9 +809,9 @@
     },
     {
       "forked": false,
-      "repository": "CopilotKit/openmuse",
+      "repository": "CopilotKit/openfuse",
       "source_entries": [
-        "CopilotKit/openmuse"
+        "CopilotKit/openfuse"
       ],
       "starred": true
     },
@@ -962,6 +962,14 @@
       "repository": "DaKheera47/job-ops",
       "source_entries": [
         "DaKheera47/job-ops"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "dansugc/reverse-engineer-marketing",
+      "source_entries": [
+        "dansugc/reverse-engineer-marketing"
       ],
       "starred": true
     },
@@ -2863,9 +2871,9 @@
     },
     {
       "forked": false,
-      "repository": "OpenSelena/omniget",
+      "repository": "OpenSelena/libreget",
       "source_entries": [
-        "OpenSelena/omniget"
+        "OpenSelena/libreget"
       ],
       "starred": true
     },
@@ -3215,6 +3223,14 @@
       "repository": "robusta-dev/krr",
       "source_entries": [
         "robusta-dev/krr"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "roflcoopter/viseron",
+      "source_entries": [
+        "roflcoopter/viseron"
       ],
       "starred": true
     },
