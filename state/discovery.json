@@ -473,15 +473,6 @@
       "starred": true
     },
     {
-      "forked": true,
-      "repository": "bastienwirtz/homer",
-      "source_entries": [
-        "bastienwirtz/homer",
-        "embaya/homer"
-      ],
-      "starred": true
-    },
-    {
       "forked": false,
       "repository": "BedrockStreaming/DaemonBundle",
       "source_entries": [
@@ -911,6 +902,14 @@
       "repository": "cporter202/software-income-playbooks",
       "source_entries": [
         "cporter202/software-income-playbooks"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "cporter202/stock-market-signal-automation",
+      "source_entries": [
+        "cporter202/stock-market-signal-automation"
       ],
       "starred": true
     },
@@ -1765,6 +1764,15 @@
       "repository": "homelab-00/TranscriptionSuite",
       "source_entries": [
         "homelab-00/TranscriptionSuite"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "homer-dashboard/homer",
+      "source_entries": [
+        "embaya/homer",
+        "homer-dashboard/homer"
       ],
       "starred": true
     },
@@ -3687,6 +3695,14 @@
     },
     {
       "forked": false,
+      "repository": "Thysrael/Horizon",
+      "source_entries": [
+        "Thysrael/Horizon"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "TidyFactor/Styler",
       "source_entries": [
         "TidyFactor/Styler"
@@ -4025,6 +4041,14 @@
       "repository": "Wassimyounes01/qwen38-uncensored",
       "source_entries": [
         "Wassimyounes01/qwen38-uncensored"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "we-promise/sure",
+      "source_entries": [
+        "we-promise/sure"
       ],
       "starred": true
     },
