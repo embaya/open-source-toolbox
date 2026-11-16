@@ -1243,6 +1243,14 @@
     },
     {
       "forked": false,
+      "repository": "elder-plinius/OBLITERATUS",
+      "source_entries": [
+        "elder-plinius/OBLITERATUS"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "elie222/inbox-zero",
       "source_entries": [
         "elie222/inbox-zero"
@@ -1465,6 +1473,14 @@
     },
     {
       "forked": false,
+      "repository": "gglucass/headroom-desktop",
+      "source_entries": [
+        "gglucass/headroom-desktop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "github/spec-kit",
       "source_entries": [
         "github/spec-kit"
@@ -1617,6 +1633,14 @@
       "source_entries": [
         "embaya/DevOps-Bash-tools",
         "HariSekhon/DevOps-Bash-tools"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "HarnessMD/munder-difflin",
+      "source_entries": [
+        "HarnessMD/munder-difflin"
       ],
       "starred": true
     },
@@ -2437,6 +2461,14 @@
         "embaya/autoskills"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "milind-soni/OpenMausBot",
+      "source_entries": [
+        "milind-soni/OpenMausBot"
+      ],
+      "starred": true
     },
     {
       "forked": false,
@@ -3641,6 +3673,14 @@
       "source_entries": [
         "embaya/tradingagents",
         "TauricResearch/TradingAgents"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "techiescamp/linux-foundation-coupon",
+      "source_entries": [
+        "techiescamp/linux-foundation-coupon"
       ],
       "starred": true
     },
