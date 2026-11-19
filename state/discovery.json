@@ -1801,14 +1801,6 @@
       "starred": true
     },
     {
-      "forked": false,
-      "repository": "HoussemDellai/github-actions-course",
-      "source_entries": [
-        "HoussemDellai/github-actions-course"
-      ],
-      "starred": true
-    },
-    {
       "forked": true,
       "repository": "HQarroum/docker-android",
       "source_entries": [
