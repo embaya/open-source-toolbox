@@ -1742,6 +1742,14 @@
     },
     {
       "forked": false,
+      "repository": "HeyPuter/everything",
+      "source_entries": [
+        "HeyPuter/everything"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Hikhakk/higgsfield-mcp-unified",
       "source_entries": [
         "Hikhakk/higgsfield-mcp-unified"
