@@ -153,6 +153,14 @@
     },
     {
       "forked": false,
+      "repository": "alexsergivan/kwant",
+      "source_entries": [
+        "alexsergivan/kwant"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "aliasrobotics/cai",
       "source_entries": [
         "aliasrobotics/cai"
@@ -631,6 +639,14 @@
       "source_entries": [
         "calcom/cal.diy",
         "embaya/cal.diy"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "CapSoftware/Cap",
+      "source_entries": [
+        "CapSoftware/Cap"
       ],
       "starred": true
     },
@@ -1162,6 +1178,14 @@
     },
     {
       "forked": false,
+      "repository": "Dodaios/ste80-humanizer",
+      "source_entries": [
+        "Dodaios/ste80-humanizer"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Dpro-at/Tel-Agent",
       "source_entries": [
         "Dpro-at/Tel-Agent"
@@ -1501,6 +1525,14 @@
       "source_entries": [
         "embaya/postiz-app",
         "gitroomhq/postiz-app"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "gogoymh/auto-ontology-mcp",
+      "source_entries": [
+        "gogoymh/auto-ontology-mcp"
       ],
       "starred": true
     },
@@ -4105,6 +4137,14 @@
       "repository": "wh000wh000/awesome-jev-live",
       "source_entries": [
         "wh000wh000/awesome-jev-live"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "wheresryan22/anatomy",
+      "source_entries": [
+        "wheresryan22/anatomy"
       ],
       "starred": true
     },
