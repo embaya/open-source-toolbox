@@ -1940,6 +1940,14 @@
     },
     {
       "forked": false,
+      "repository": "jamesondh/chimera-vocal-synth",
+      "source_entries": [
+        "jamesondh/chimera-vocal-synth"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Jane-xiaoer/claude-skill-web-clone",
       "source_entries": [
         "Jane-xiaoer/claude-skill-web-clone"
@@ -2297,6 +2305,14 @@
       "repository": "louislam/uptime-kuma",
       "source_entries": [
         "louislam/uptime-kuma"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "luispablovillasenor-afk/shorts-animados-claude",
+      "source_entries": [
+        "luispablovillasenor-afk/shorts-animados-claude"
       ],
       "starred": true
     },
