@@ -341,6 +341,14 @@
     },
     {
       "forked": false,
+      "repository": "Arindam200/awesome-ai-apps",
+      "source_entries": [
+        "Arindam200/awesome-ai-apps"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "ARPAHLS/skillware",
       "source_entries": [
         "ARPAHLS/skillware"
@@ -557,6 +565,14 @@
       "repository": "black-forest-labs/flux2",
       "source_entries": [
         "black-forest-labs/flux2"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "block/goose-plugins",
+      "source_entries": [
+        "block/goose-plugins"
       ],
       "starred": true
     },
@@ -962,6 +978,14 @@
         "embaya/n8n-mcp"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "CzzzzzzJ/mdldm-maitian",
+      "source_entries": [
+        "CzzzzzzJ/mdldm-maitian"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -1849,6 +1873,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "HoussemDellai/github-actions-course",
+      "source_entries": [
+        "HoussemDellai/github-actions-course"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "HQarroum/docker-android",
       "source_entries": [
@@ -2077,10 +2109,9 @@
       "starred": false
     },
     {
-      "forked": true,
+      "forked": false,
       "repository": "kamilstanuch/Autocrop-vertical",
       "source_entries": [
-        "embaya/openshorts",
         "mutonby/openshorts"
       ],
       "starred": true
@@ -2632,6 +2663,14 @@
         "multica-ai/multica"
       ],
       "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "mutonby/openshorts",
+      "source_entries": [
+        "embaya/openshorts"
+      ],
+      "starred": false
     },
     {
       "forked": false,
