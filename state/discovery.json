@@ -2110,14 +2110,6 @@
     },
     {
       "forked": false,
-      "repository": "kamilstanuch/Autocrop-vertical",
-      "source_entries": [
-        "mutonby/openshorts"
-      ],
-      "starred": true
-    },
-    {
-      "forked": false,
       "repository": "karpathy/autoresearch",
       "source_entries": [
         "karpathy/autoresearch"
@@ -2668,9 +2660,10 @@
       "forked": true,
       "repository": "mutonby/openshorts",
       "source_entries": [
-        "embaya/openshorts"
+        "embaya/openshorts",
+        "mutonby/openshorts"
       ],
-      "starred": false
+      "starred": true
     },
     {
       "forked": false,
