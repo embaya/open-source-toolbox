@@ -153,6 +153,14 @@
     },
     {
       "forked": false,
+      "repository": "alexsergivan/kwant",
+      "source_entries": [
+        "alexsergivan/kwant"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "aliasrobotics/cai",
       "source_entries": [
         "aliasrobotics/cai"
@@ -333,6 +341,14 @@
     },
     {
       "forked": false,
+      "repository": "Arindam200/awesome-ai-apps",
+      "source_entries": [
+        "Arindam200/awesome-ai-apps"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "ARPAHLS/skillware",
       "source_entries": [
         "ARPAHLS/skillware"
@@ -473,15 +489,6 @@
       "starred": true
     },
     {
-      "forked": true,
-      "repository": "bastienwirtz/homer",
-      "source_entries": [
-        "bastienwirtz/homer",
-        "embaya/homer"
-      ],
-      "starred": true
-    },
-    {
       "forked": false,
       "repository": "BedrockStreaming/DaemonBundle",
       "source_entries": [
@@ -558,6 +565,14 @@
       "repository": "black-forest-labs/flux2",
       "source_entries": [
         "black-forest-labs/flux2"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "block/goose-plugins",
+      "source_entries": [
+        "block/goose-plugins"
       ],
       "starred": true
     },
@@ -644,12 +659,28 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "CapSoftware/Cap",
+      "source_entries": [
+        "CapSoftware/Cap"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "catnip-ai-tech/MaineCoon",
       "source_entries": [
         "embaya/mainecoon"
       ],
       "starred": false
+    },
+    {
+      "forked": false,
+      "repository": "cbrock84/headcount",
+      "source_entries": [
+        "cbrock84/headcount"
+      ],
+      "starred": true
     },
     {
       "forked": true,
@@ -809,9 +840,17 @@
     },
     {
       "forked": false,
-      "repository": "CopilotKit/openmuse",
+      "repository": "coollabsio/coolify",
       "source_entries": [
-        "CopilotKit/openmuse"
+        "coollabsio/coolify"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "CopilotKit/openfuse",
+      "source_entries": [
+        "CopilotKit/openfuse"
       ],
       "starred": true
     },
@@ -916,6 +955,14 @@
     },
     {
       "forked": false,
+      "repository": "cporter202/stock-market-signal-automation",
+      "source_entries": [
+        "cporter202/stock-market-signal-automation"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "cravler/CravlerMaxMindGeoIpBundle",
       "source_entries": [
         "cravler/CravlerMaxMindGeoIpBundle"
@@ -949,6 +996,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "CzzzzzzJ/mdldm-maitian",
+      "source_entries": [
+        "CzzzzzzJ/mdldm-maitian"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "D4Vinci/Scrapling",
       "source_entries": [
@@ -962,6 +1017,14 @@
       "repository": "DaKheera47/job-ops",
       "source_entries": [
         "DaKheera47/job-ops"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "dansugc/reverse-engineer-marketing",
+      "source_entries": [
+        "dansugc/reverse-engineer-marketing"
       ],
       "starred": true
     },
@@ -1155,6 +1218,14 @@
     },
     {
       "forked": false,
+      "repository": "Dodaios/ste80-humanizer",
+      "source_entries": [
+        "Dodaios/ste80-humanizer"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Dpro-at/Tel-Agent",
       "source_entries": [
         "Dpro-at/Tel-Agent"
@@ -1231,6 +1302,22 @@
       "repository": "eko/eko",
       "source_entries": [
         "eko/eko"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "EL4CTEO/fast-anything",
+      "source_entries": [
+        "EL4CTEO/fast-anything"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "elder-plinius/OBLITERATUS",
+      "source_entries": [
+        "elder-plinius/OBLITERATUS"
       ],
       "starred": true
     },
@@ -1458,6 +1545,14 @@
     },
     {
       "forked": false,
+      "repository": "gglucass/headroom-desktop",
+      "source_entries": [
+        "gglucass/headroom-desktop"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "github/spec-kit",
       "source_entries": [
         "github/spec-kit"
@@ -1478,6 +1573,14 @@
       "source_entries": [
         "embaya/postiz-app",
         "gitroomhq/postiz-app"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "gogoymh/auto-ontology-mcp",
+      "source_entries": [
+        "gogoymh/auto-ontology-mcp"
       ],
       "starred": true
     },
@@ -1614,6 +1717,14 @@
       "starred": true
     },
     {
+      "forked": false,
+      "repository": "HarnessMD/munder-difflin",
+      "source_entries": [
+        "HarnessMD/munder-difflin"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "harry0703/MoneyPrinterTurbo",
       "source_entries": [
@@ -1711,6 +1822,14 @@
     },
     {
       "forked": false,
+      "repository": "HeyPuter/everything",
+      "source_entries": [
+        "HeyPuter/everything"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Hikhakk/higgsfield-mcp-unified",
       "source_entries": [
         "Hikhakk/higgsfield-mcp-unified"
@@ -1757,6 +1876,15 @@
       "repository": "homelab-00/TranscriptionSuite",
       "source_entries": [
         "homelab-00/TranscriptionSuite"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "homer-dashboard/homer",
+      "source_entries": [
+        "embaya/homer",
+        "homer-dashboard/homer"
       ],
       "starred": true
     },
@@ -1863,6 +1991,14 @@
       "repository": "Jakeschincariol/replica-skill",
       "source_entries": [
         "Jakeschincariol/replica-skill"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "jamesondh/chimera-vocal-synth",
+      "source_entries": [
+        "jamesondh/chimera-vocal-synth"
       ],
       "starred": true
     },
@@ -1987,15 +2123,6 @@
         "embaya/phpinspectionsea"
       ],
       "starred": false
-    },
-    {
-      "forked": true,
-      "repository": "kamilstanuch/Autocrop-vertical",
-      "source_entries": [
-        "embaya/openshorts",
-        "mutonby/openshorts"
-      ],
-      "starred": true
     },
     {
       "forked": false,
@@ -2230,6 +2357,14 @@
     },
     {
       "forked": false,
+      "repository": "luispablovillasenor-afk/shorts-animados-claude",
+      "source_entries": [
+        "luispablovillasenor-afk/shorts-animados-claude"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "luongnv89/claude-howto",
       "source_entries": [
         "luongnv89/claude-howto"
@@ -2424,6 +2559,14 @@
     },
     {
       "forked": false,
+      "repository": "milind-soni/OpenMausBot",
+      "source_entries": [
+        "milind-soni/OpenMausBot"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "miqdadbadjuber/anti-slop",
       "source_entries": [
         "miqdadbadjuber/anti-slop"
@@ -2467,6 +2610,14 @@
       "repository": "Moh4696/freecut",
       "source_entries": [
         "Moh4696/freecut"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Moh4696/inkworks-skill",
+      "source_entries": [
+        "Moh4696/inkworks-skill"
       ],
       "starred": true
     },
@@ -2526,6 +2677,15 @@
       "source_entries": [
         "embaya/multica",
         "multica-ai/multica"
+      ],
+      "starred": true
+    },
+    {
+      "forked": true,
+      "repository": "mutonby/openshorts",
+      "source_entries": [
+        "embaya/openshorts",
+        "mutonby/openshorts"
       ],
       "starred": true
     },
@@ -2863,9 +3023,9 @@
     },
     {
       "forked": false,
-      "repository": "OpenSelena/omniget",
+      "repository": "OpenSelena/libreget",
       "source_entries": [
-        "OpenSelena/omniget"
+        "OpenSelena/libreget"
       ],
       "starred": true
     },
@@ -3215,6 +3375,14 @@
       "repository": "robusta-dev/krr",
       "source_entries": [
         "robusta-dev/krr"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "roflcoopter/viseron",
+      "source_entries": [
+        "roflcoopter/viseron"
       ],
       "starred": true
     },
@@ -3622,6 +3790,14 @@
     },
     {
       "forked": false,
+      "repository": "techiescamp/linux-foundation-coupon",
+      "source_entries": [
+        "techiescamp/linux-foundation-coupon"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "Tejashmakwana/motionmaxxing",
       "source_entries": [
         "Tejashmakwana/motionmaxxing"
@@ -3666,6 +3842,14 @@
       "repository": "theSoberSobber/Docker-Manager",
       "source_entries": [
         "theSoberSobber/Docker-Manager"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Thysrael/Horizon",
+      "source_entries": [
+        "Thysrael/Horizon"
       ],
       "starred": true
     },
@@ -4014,6 +4198,14 @@
     },
     {
       "forked": false,
+      "repository": "we-promise/sure",
+      "source_entries": [
+        "we-promise/sure"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
       "repository": "westpoint-io/mimik",
       "source_entries": [
         "westpoint-io/mimik"
@@ -4025,6 +4217,14 @@
       "repository": "wh000wh000/awesome-jev-live",
       "source_entries": [
         "wh000wh000/awesome-jev-live"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "wheresryan22/anatomy",
+      "source_entries": [
+        "wheresryan22/anatomy"
       ],
       "starred": true
     },
