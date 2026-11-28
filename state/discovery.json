@@ -675,6 +675,14 @@
       "starred": false
     },
     {
+      "forked": false,
+      "repository": "cbrock84/headcount",
+      "source_entries": [
+        "cbrock84/headcount"
+      ],
+      "starred": true
+    },
+    {
       "forked": true,
       "repository": "charlie947/social-media-skills",
       "source_entries": [
@@ -827,6 +835,14 @@
       "repository": "ComposioHQ/awesome-claude-skills",
       "source_entries": [
         "ComposioHQ/awesome-claude-skills"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "coollabsio/coolify",
+      "source_entries": [
+        "coollabsio/coolify"
       ],
       "starred": true
     },
@@ -2594,6 +2610,14 @@
       "repository": "Moh4696/freecut",
       "source_entries": [
         "Moh4696/freecut"
+      ],
+      "starred": true
+    },
+    {
+      "forked": false,
+      "repository": "Moh4696/inkworks-skill",
+      "source_entries": [
+        "Moh4696/inkworks-skill"
       ],
       "starred": true
     },
